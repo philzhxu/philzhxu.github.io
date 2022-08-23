@@ -1,2 +1,2 @@
-# tyleransom.github.io
-Repository for Ty's academic research website.
+# philzhxu.github.io
+Repository for Z Xu's academic research website.
