@@ -1,2 +1,2 @@
 # philzhxu.github.io
-Repository for Z Xu's academic research website.
+Repository for Zhicheng Xu's academic research website.
