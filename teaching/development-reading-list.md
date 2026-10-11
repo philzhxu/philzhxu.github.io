@@ -38,7 +38,7 @@ Jedwab, Remi, and Alexander Moradi. 2016. "The Permanent Effects of Transportati
 
 Lane, Nathan. 2025. "Manufacturing Revolutions: Industrial Policy and Industrialization in South Korea." *Quarterly Journal of Economics* 140 (3): 1683–1741.
 
-Liu Elaine M. 2013. Time to Change What to Sow: Risk Preferences and Technology Adoption Decisions of Cotton Farmers in China. *Review of Economics and Statistics *95(4): 1386-1403.
+Liu Elaine M. 2013. Time to Change What to Sow: Risk Preferences and Technology Adoption Decisions of Cotton Farmers in China. *Review of Economics and Statistics* 95(4): 1386-1403.
 
 Maertens, Annemi, and Christopher Barrett. 2013. “Measuring Social Networks' Effects on Agricultural Technology Adoption.” *American Journal of Agricultural Economics* 95(1): 353-359.
 
@@ -348,9 +348,9 @@ Doepke, Matthias, and Fabrizio Zilibotti. 2014. "Chapter 1 - Culture, Entreprene
 
 Durante, Ruben, Nicola Mastrorocco, Luigi Minale, and James M. Snyder. 2025. "Unpacking Social Capital." *Economic Journal* 135 (667): 773–807.
 
-Enke, Benjamin. 2019. "Kinship, Cooperation, and the Evolution of Moral Systems*." *The Quarterly Journal of Economics* 134 (2): 953-1019.
+Enke, Benjamin. 2019. "Kinship, Cooperation, and the Evolution of Moral Systems." *The Quarterly Journal of Economics* 134 (2): 953-1019.
 
-Giuliano, Paola, and Nathan Nunn. 2021. “Understanding Cultural Persistence and Change,” *Review of Economic** *Studies*, 88 (4), 1541–1581.
+Giuliano, Paola, and Nathan Nunn. 2021. “Understanding Cultural Persistence and Change,” *Review of Economic Studies*, 88 (4), 1541–1581.
 
 Gorodnichenko, Yuriy, and Gerard Roland. 2021. "Culture, Institutions and Democratization." *Public Choice* 187 (1–2): 165–195.
 
@@ -440,7 +440,7 @@ Caprettini, Bruno, and Hans-Joachim Voth. 2023. "New Deal, New Patriots: How 193
 
 Chambru, Cédric, Emeric Henry, and Benjamin Marx. 2024. "The Dynamic Consequences of State Building: Evidence from the French Revolution." *American Economic Review*, 114 (11): 3578–3622.
 
-Dal Bó, Ernesto, Frederico Finan, and Martín A. Rossi. 2013. "Strengthening State Capabilities: The Role of Financial Incentives in the Call to Public Service*." *Quarterly Journal of Economics* 128 (3):1169-1218.
+Dal Bó, Ernesto, Frederico Finan, and Martín A. Rossi. 2013. "Strengthening State Capabilities: The Role of Financial Incentives in the Call to Public Service." *Quarterly Journal of Economics* 128 (3):1169-1218.
 
 Dell, Melissa, Nathan Lane, and Pablo Querubin. 2018. "The Historical State, Local Collective Action, and Economic Development in Vietnam." *Econometrica* 86 (6):2083-2121.
 
@@ -464,7 +464,7 @@ Herbst, Jeffrey. 2014. *States and Power in Africa*: Princeton University Press.
 
 Hudson, Valerie M., Donna Lee Bowen, And Perpetua Lynne Nielsen. 2015. "Clan Governance and State Stability: The Relationship between Female Subordination and Political Order." *American Political Science Review* 109 (03):535-555.
 
-Mayshar, Joram, Omer Moav, and Luigi Pascali. 2022. "The Origin of the State: Land Productivity or Appropriability?" *Journal of Political Economy* 130 (4): 1091–1144.*
+Mayshar, Joram, Omer Moav, and Luigi Pascali. 2022. "The Origin of the State: Land Productivity or Appropriability?" *Journal of Political Economy* 130 (4): 1091–1144.
 
 Muralidharan, K., P. Niehaus and S. Sukhtankar (2016). Building State Capacity: Evidence from Biometric Smartcards in India. *American Economic Review*, 106(10): 2895-2929
 
@@ -514,7 +514,7 @@ Flückiger, Matthias; Markus Ludwig and Ali Sina Önder. 2019. "Ebola and State 
 
 Nunn, Nathan, and Diego Puga. 2012. "Ruggedness: The Blessing of Bad Geography in Africa." *Review of Economics and Statistics* 94 (1):20-36.
 
-Pelzl, Paul, Steven Poelhekke. 2021. Good mine, bad mine: Natural resource heterogeneity and Dutch disease in Indonesia. **Journal of International Economics* 131, 103457.
+Pelzl, Paul, Steven Poelhekke. 2021. Good mine, bad mine: Natural resource heterogeneity and Dutch disease in Indonesia. *Journal of International Economics* 131, 103457.
 
 Sachs, Jeffrey D. and Andrew M. Warner. 1999. "The Big Rush, Natural Resource Booms and Growth" *Journal of Development Economics* 59(1): 43-76.
 
@@ -550,7 +550,7 @@ Bertrand, Marianne, Simeon Djankov, Rema Hanna, and Sendhil Mullainathan. 2007. 
 
 Callen, Michael, and James D. Long. 2015. "Institutional Corruption and Election Fraud: Evidence from a Field Experiment in Afghanistan." *American Economic Review*, 105 (1): 354-81.
 
-Enikolopov R, Petrova M, Sonin K. 2018. Social media and corruption. *Am. Econ. J. Appl. Econ. *10:150–74
+Enikolopov R, Petrova M, Sonin K. 2018. Social media and corruption. *Am. Econ. J. Appl. Econ.* 10:150–74
 
 Ferraz, Finan. 2011. “Electoral Accountability and Corruption: Evidence from the Audits of Local Governments,” *American Economic Review* 101 (4), 1274–1311
 
@@ -664,7 +664,7 @@ Roessler, Philip. 2016. *Ethnic Politics and State Power in Africa: The Logic of
 
 *Rohner, Dominic, Mathias Thoenig, and Fabrizio Zilibotti. 2013. "Seeds of Distrust: Conflict in Uganda." *Journal of Economic Growth* 18 (3):217-252.
 
-Shayo, Moses, and Asaf Zussman. 2017. "Conflict and the Persistence of Ethnic Bias." *American Economic Journal: Applied Economics *9 (4): 137-65.
+Shayo, Moses, and Asaf Zussman. 2017. "Conflict and the Persistence of Ethnic Bias." *American Economic Journal: Applied Economics* 9 (4): 137-65.
 
 Sunde, Uwe, and Matteo Cervellati. 2013. "Democratizing for Peace? The Effect of Democratization on Civil Conflicts." *Oxford Economic Papers* 66 (3):774-797.
 
@@ -840,7 +840,7 @@ Lai, Weizheng, Lixin Colin Xu, and Li Yang. 2026. "Stationary Bandits, State Cap
 
 ## Rural Economy, Urbanization, Migration, Industrialization
 
-Bardhan, Pranab, and Dilip Mookherjee. Determinants of Redistributive Politics: An Empirical Analysis of Land Reforms in West Bengal, India. *American Economic Review* 100 *(4): 1572-1600.
+Bardhan, Pranab, and Dilip Mookherjee. Determinants of Redistributive Politics: An Empirical Analysis of Land Reforms in West Bengal, India. *American Economic Review* 100 (4): 1572-1600.
 
 Clemens, Michael A., Ethan G. Lewis, And Hannah M. Postel. 2018. "Immigration Restrictions as Active Labor Market Policy: Evidence from the Mexican Bracero Exclusion." *American Economic Review* 108(6): 1468-87.
 
