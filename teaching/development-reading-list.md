@@ -1,6 +1,6 @@
 # Reading List of Development Economics
 
-**Last updated:** 2026-10-11
+**Last updated:** 2026-10-13
 
 ## Growth
 
@@ -99,6 +99,8 @@ He, Guojun, Yang Xie, and Bing Zhang. 2020. "Expressways, GDP, and the Environme
 Hjort, Jonas, and Jonas Poulsen. 2019. "The Arrival of Fast Internet and Employment in Africa." *American Economic Review* 109 (3): 1032-79. https://doi.org/10.1257/aer.20161385
 
 Jedwab, Remi, and Alexander Moradi. 2016. "The Permanent Effects of Transportation Revolutions in Poor Countries: Evidence from Africa." *Review of Economics and Statistics* 98 (2):268-284. https://doi.org/10.1162/rest_a_00540
+
+Kaboski, Joseph P., Will Jianyu Lu, Wei Qian, and Lixia Ren. 2026. "Melitz Meets Lewis: The Impacts of Roads on Structural Transformation and Businesses." *Journal of International Economics* 162: 104310. https://doi.org/10.1016/j.jinteco.2026.104310
 
 Munnell, Alicia H. 1992. "Policy Watch: Infrastructure Investment and Economic Growth." *Journal of Economic Perspectives* 6 (4):189-198. https://doi.org/10.1257/jep.6.4.189
 
@@ -904,6 +906,8 @@ Imbert, Clément, Marlon Seror, Yifan Zhang, and Yanos Zylberberg. 2022. "Migran
 
 Jessoe, Katrina, Dale T. Manning, and J. Edward Taylor. 2018. "Climate Change and Labour Allocation in Rural Mexico: Evidence from Annual Fluctuations in Weather." *Economic Journal* 128 (608):230-261. https://doi.org/10.1111/ecoj.12448
 
+Kaboski, Joseph P., Will Jianyu Lu, Wei Qian, and Lixia Ren. 2026. "Melitz Meets Lewis: The Impacts of Roads on Structural Transformation and Businesses." *Journal of International Economics* 162: 104310. https://doi.org/10.1016/j.jinteco.2026.104310
+
 Kline, Patrick, and Enrico Moretti. 2014. "People, Places, and Public Policy: Some Simple Welfare Economics of Local Economic Development Programs," *Annual Review of Economics*, 6(1), 629-662 https://doi.org/10.1146/annurev-economics-080213-041024
 
 Marchiori, Luca, Jean-François Maystadt, and Ingmar Schumacher. 2012. The Impact of Weather Anomalies on Migration in Sub-Saharan Africa. *Journal of Environmental Economics and Management*, 63(3): 355-374. https://doi.org/10.1016/j.jeem.2012.02.001
@@ -1055,6 +1059,8 @@ Piketty, Thomas, Li Yang, and Gabriel Zucman. 2019. "Capital accumulation, priva
 Shen, Yan, and Yang Yao. 2008. "Does Grassroots Democracy Reduce Income Inequality in China?" *Journal of Public Economics* 92 (10-11):2182-2198. https://doi.org/10.1016/j.jpubeco.2008.04.002
 
 ## Trade and Globalization
+
+Kaboski, Joseph P., Will Jianyu Lu, Wei Qian, and Lixia Ren. 2026. "Melitz Meets Lewis: The Impacts of Roads on Structural Transformation and Businesses." *Journal of International Economics* 162: 104310. https://doi.org/10.1016/j.jinteco.2026.104310
 
 Ma, Hong, Yu Pan, and Mingzhi Xu. 2025. "The Criminogenic Consequence of Export Slowdown: Evidence from Millions of Court Judgement Documents in China." *Economic Journal* 135 (671): 2242–2275. https://doi.org/10.1093/ej/ueaf024
 
@@ -1271,6 +1277,8 @@ Huang, Zhangkai, Lixing Li, Guangrong Ma, and Lixin Colin Xu. 2017. "Hayek, Loca
 Imbert, Clément, Marlon Seror, Yifan Zhang, and Yanos Zylberberg. 2022. "Migrants and Firms: Evidence from China." *American Economic Review* 112 (6): 1885–1914. https://doi.org/10.1257/aer.20191234
 
 Jia, Ruixue. 2014. "The Legacies of Forced Freedom: China's Treaty Ports." *Review of Economics and Statistics* 96 (4):596-608. https://doi.org/10.1162/rest_a_00458
+
+Kaboski, Joseph P., Will Jianyu Lu, Wei Qian, and Lixia Ren. 2026. "Melitz Meets Lewis: The Impacts of Roads on Structural Transformation and Businesses." *Journal of International Economics* 162: 104310. https://doi.org/10.1016/j.jinteco.2026.104310
 
 Lai, Weizheng, and Xun Li. 2024. "China’s Anticorruption Campaign and Civil Servant Fever." *Journal of Law and Economics* 67 (2): 479–516. https://doi.org/10.1086/727780
 
