@@ -804,6 +804,8 @@ Banerjee, Abhijit, and Lakshmi Iyer. 2005. "History, Institutions, and Economic 
 
 Becker, Sascha O., and Luigi Pascali. 2019. "Religion, Division of Labor, and Conflict: Anti-Semitism in Germany over 600 Years." *American Economic Review* 109 (5): 1764–1804. https://doi.org/10.1257/aer.20170279
 
+Bowles, Samuel, and Mattia Fochesato. 2024. "The Origins of Enduring Economic Inequality." *Journal of Economic Literature* 62 (4): 1475-1537. https://doi.org/10.1257/jel.20241718
+
 Berger, Daniel, William Easterly, Nathan Nunn, and Shanker Satyanath. 2013. "Commercial Imperialism? Political Influence and Trade During the Cold War." *American Economic Review* 103 (2):863-96. https://doi.org/10.1257/aer.103.2.863
 
 Buonanno, Paolo; Ruben Durante; Giovanni Prarolo and Paolo Vanin. 2015. "Poor Institutions, Rich Mines: Resource Curse in the Origins of the Sicilian Mafia." *The Economic Journal*, 125(586), F175-F202. https://doi.org/10.1111/ecoj.12236
@@ -1017,6 +1019,8 @@ Bjørnskov, Christian. 2008. "The Growth–Inequality Association: Government Id
 Bourguignon, François, and Thierry Verdier. 2000. "Oligarchy, Democracy, Inequality and Growth." *Journal of Development Economics* 62 (2):285-313. https://doi.org/10.1016/s0304-3878(00)00086-9
 
 Bowles, Samuel, and Herbert Gintis. 2002. "The Inheritance of Inequality." *Journal of Economic Perspectives* 16 (3): 3-30. https://doi.org/10.1257/089533002760278686
+
+Bowles, Samuel, and Mattia Fochesato. 2024. "The Origins of Enduring Economic Inequality." *Journal of Economic Literature* 62 (4): 1475-1537. https://doi.org/10.1257/jel.20241718
 
 Cervellati, Matteo, Piergiuseppe Fortunato, and Uwe Sunde. 2008. "Hobbes to Rousseau: Inequality, Institutions and Development." *The Economic Journal* 118 (531):1354-1384. https://doi.org/10.1111/j.1468-0297.2008.02173.x
 
