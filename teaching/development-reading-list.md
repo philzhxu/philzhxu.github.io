@@ -12,7 +12,7 @@ Alesina, Alberto, and Dani Rodrik. 1994. "Distributive Politics and Economic Gro
 
 Asher, Sam, and Paul Novosad. 2020. "Rural Roads and Local Economic Development." *American Economic Review*, 110 (3): 797-823. https://doi.org/10.1257/aer.20180268
 
-Ashraf, Q. and Galor, O. 2011. Dynamics and stagnation in the Malthusian epoch. *American Economic Review*, 101(5), 2003-2041 https://doi.org/10.1257/aer.101.5.2003
+Ashraf, Quamrul, and Oded Galor. 2011. Dynamics and stagnation in the Malthusian epoch. *American Economic Review*, 101(5), 2003-2041 https://doi.org/10.1257/aer.101.5.2003
 
 Banerjee, Abhijit, Esther Duflo, and Nancy Qian. 2020. "On the Road: Access to Transportation Infrastructure and Economic Growth in China." *Journal of Development Economics* 145: 102442. https://doi.org/10.1016/j.jdeveco.2020.102442
 
@@ -54,17 +54,17 @@ Jedwab, Remi, and Alexander Moradi. 2016. "The Permanent Effects of Transportati
 
 Krusell, Per, and Jose-Victor Rios-Rull. 1996. "Vested Interests in a Positive Theory of Stagnation and Growth." *Review of Economic Studies* 63 (2): 301. https://doi.org/10.2307/2297854
 
-David Lagakos and Michael E.Waugh. 2013. "Selection, Agriculture, and Cross-Country Productivity Differences." *American Economic Review*, 103(2): 948-80. https://doi.org/10.1257/aer.103.2.948
+Lagakos, David, and Michael E. Waugh. 2013. "Selection, Agriculture, and Cross-Country Productivity Differences." *American Economic Review*, 103(2): 948-80. https://doi.org/10.1257/aer.103.2.948
 
 Lane, Nathan. 2025. "Manufacturing Revolutions: Industrial Policy and Industrialization in South Korea." *Quarterly Journal of Economics* 140 (3): 1683–1741. https://doi.org/10.1093/qje/qjaf025
 
 Lin, Justin Yifu. 1992. "Rural Reforms and Agricultural Growth in China." *American Economic Review* 82 (1): 34-51.
 
-Liu Elaine M. 2013. Time to Change What to Sow: Risk Preferences and Technology Adoption Decisions of Cotton Farmers in China. *Review of Economics and Statistics* 95(4): 1386-1403. https://doi.org/10.1162/rest_a_00295
+Liu, Elaine M. 2013. Time to Change What to Sow: Risk Preferences and Technology Adoption Decisions of Cotton Farmers in China. *Review of Economics and Statistics* 95(4): 1386-1403. https://doi.org/10.1162/rest_a_00295
 
 Maertens, Annemi, and Christopher Barrett. 2013. “Measuring Social Networks' Effects on Agricultural Technology Adoption.” *American Journal of Agricultural Economics* 95(1): 353-359. https://doi.org/10.1093/ajae/aas049
 
-*Mankiw, N.G., D. Romer, and D.N. Weil, 1992, A contribution to the empirics of economic growth, *Quarterly Journal of Economics* 107, 407-437. https://doi.org/10.2307/2118477
+*Mankiw, N. G., D. Romer, and D. N. Weil, 1992, A contribution to the empirics of economic growth, *Quarterly Journal of Economics* 107, 407-437. https://doi.org/10.2307/2118477
 
 Munnell, Alicia H. 1992. "Policy Watch: Infrastructure Investment and Economic Growth." *Journal of Economic Perspectives* 6 (4):189-198. https://doi.org/10.1257/jep.6.4.189
 
@@ -72,7 +72,7 @@ Song, Zheng, and Wei Xiong. 2026. "The Mandarin Model of Growth." *American Econ
 
 *Song, Zheng, Kjetil Storesletten, and Fabrizio Zilibotti. 2011. "Growing Like China." *American Economic Review* 101 (1):196-233. https://doi.org/10.1257/aer.101.1.196
 
-Strulik, H., Prettner, K., & Prskawetz, A. 2013. The past and future of knowledge-based growth. *Journal of Economic Growth*, 18(4), 411-437 https://doi.org/10.1007/s10887-013-9098-9
+Strulik, Holger, Klaus Prettner, and Alexia Prskawetz. 2013. The past and future of knowledge-based growth. *Journal of Economic Growth*, 18(4), 411-437 https://doi.org/10.1007/s10887-013-9098-9
 
 *Zhu, Xiaodong. 2012. "Understanding China's Growth: Past, Present, and Future." *Journal of Economic Perspectives* 26 (4):103-124. https://doi.org/10.1257/jep.26.4.103
 
@@ -168,13 +168,13 @@ Asher, Sam, and Paul Novosad. 2017. "Politics and Local Economic Growth: Evidenc
 
 Bai, Ying, and Ruixue Jia. 2016. "Elite Recruitment and Political Stability: The Impact of the Abolition of China's Civil Service Exam." *Econometrica* 84 (2):677-733. https://doi.org/10.3982/ecta13448
 
+Besley, Timothy. 1995. Property Rights and Investment Incentives: Theory and Evidence from Ghana. *Journal of Political Economy* 103(5): 903–937. https://doi.org/10.1086/262008
+
 *Besley, Timothy, and Robin Burgess. 2002. "The Political Economy of Government Responsiveness: Theory and Evidence from India." *Quarterly Journal of Economics* 117 (4):1415-1451. https://doi.org/10.1162/003355302320935061
 
 Besley, Timothy, and Torsten Persson. 2011. *Pillars of Prosperity: The Political Economics of Development Clusters*. Princeton, NJ: Princeton University Press. https://doi.org/10.23943/princeton/9780691152684.003.0001
 
-Besley, T. J. and T. Persson. 2011. Pillars of Prosperity: The Political Economics of Development Clusters. Princeton, Princeton University Press. https://doi.org/10.23943/princeton/9780691152684.001.0001
-
-Besley Timothy. 1995. Property Rights and Investment Incentives: Theory and Evidence from Ghana. *Journal of Political Economy* 103(5): 903–937. https://doi.org/10.1086/262008
+Besley, Timothy, and Torsten Persson. 2011. Pillars of Prosperity: The Political Economics of Development Clusters. Princeton, Princeton University Press. https://doi.org/10.23943/princeton/9780691152684.001.0001
 
 Burgess, Robin, Remi Jedwab, Edward Miguel, Ameet Morjaria, and Gerard Padró i Miquel. 2015. "The Value of Democracy: Evidence from Road Building in Kenya." *American Economic Review* 105 (6):1817-51. https://doi.org/10.1257/aer.20131031
 
@@ -212,7 +212,7 @@ Naidu, Suresh, and Noam Yuchtman. 2013. "Coercive Contract Enforcement: Law and 
 
 North, Douglass C. 1991. “Institutions.” *Journal of Economic Perspectives*, 5(1), 97–112. https://doi.org/10.1257/jep.5.1.97
 
-Olson, M., 1993. Dictatorship, democracy, and development. *American political science review*, *87*(3), 567-576. https://doi.org/10.2307/2938736
+Olson, Mancur, 1993. Dictatorship, democracy, and development. *American political science review*, *87*(3), 567-576. https://doi.org/10.2307/2938736
 
 Przeworski, Adam, *et al.* Democracy and Development: Political Institutions and Well-Being in the World, 1950-1990. Vol. 3. Cambridge University Press, 2000. https://doi.org/10.1017/cbo9780511804946
 
@@ -358,11 +358,11 @@ Hjort, Jonas. 2014. "Ethnic Divisions and Production in Firms." *Quarterly Journ
 
 Hodler, Roland, and Paul A. Raschky. 2014. "Regional Favoritism." *Quarterly Journal of Economics* 129 (2): 995–1033. https://doi.org/10.1093/qje/qju004
 
-*Jones, B. F., and B. A. Olken. 2005. "Do Leaders Matter? National Leadership and Growth since World War II." *Quarterly Journal of Economics* 120 (3):835-864. https://doi.org/10.1162/003355305774268165
+*Jones, Benjamin F., and Benjamin A. Olken. 2005. "Do Leaders Matter? National Leadership and Growth since World War II." *Quarterly Journal of Economics* 120 (3):835-864. https://doi.org/10.1162/003355305774268165
 
 Kamada, Yuichiro, and Fuhito Kojima. 2014. "Voter Preferences, Polarization, and Electoral Policies." *American Economic Journal: Microeconomics* 6 (4):203-36. https://doi.org/10.1257/mic.6.4.203
 
-King G, Pan J, Roberts ME. 2017. How the Chinese government fabricates social media posts for strategic distraction, not engaged argument. *Am. Political Sci. Rev*. 111:484–501 https://doi.org/10.1017/s0003055417000144
+King, Gary, Jennifer Pan, and Margaret E. Roberts. 2017. How the Chinese government fabricates social media posts for strategic distraction, not engaged argument. *Am. Political Sci. Rev*. 111:484–501 https://doi.org/10.1017/s0003055417000144
 
 Kung, James Kai-Sing, and Shuo Chen. 2011. "The Tragedy of the Nomenklatura Career Incentives and Political Radicalism During China's Great Leap Famine." *American Political Science Review* 105 (1):27-45. https://doi.org/10.1017/s0003055410000626
 
@@ -394,11 +394,11 @@ Piketty, Thomas. 1995. "Social Mobility and Redistributive Politics." *Quarterly
 
 Putnam, Robert D., Robert Leonardi, and Raffaella Y. Nanetti. 1994. Making Democracy Work: Civic Traditions in Modern Italy. Princeton University Press https://doi.org/10.1515/9781400820740
 
+Qin, Bei, David Strömberg, and Yanhui Wu. 2017. Why does China allow freer social media? Protests versus surveillance and propaganda. *Journal of Economic Perspectives* 31:117–40 https://doi.org/10.1257/jep.31.1.117
+
 Qin, Bei, David Strömberg, and Yanhui Wu. 2018. "Media Bias in China." *American Economic Review*, 108 (9): 2442-76. https://doi.org/10.1257/aer.20170947
 
 Qin, Bei, David Strömberg, and Yanhui Wu. 2024. "Social Media and Collective Action in China." *Econometrica* 92 (6): 1993–2026. https://doi.org/10.3982/ecta20146
-
-Qin B, Strömberg D, Wu Y. 2017. Why does China allow freer social media? Protests versus surveillance and propaganda. *Journal of Economic Perspectives* 31:117–40 https://doi.org/10.1257/jep.31.1.117
 
 Rosenfeld, Bryn, and Jeremy Wallace. 2024. "Information Politics and Propaganda in Authoritarian Societies." *Annual Review of Political Science* 27: 263–281. https://doi.org/10.1146/annurev-polisci-041322-035951
 
@@ -428,11 +428,11 @@ Almelhem, Ali, Murat Iyigun, Austin Kennedy, and Jared Rubin. 2026. "Enlightenme
 
 Andre, Peter. 2025. "Shallow Meritocracy." *Review of Economic Studies* 92 (2): 772–807. https://doi.org/10.1093/restud/rdae040
 
-Ang Desmond. 2023. The birth of a nation: Media and racial hate. *American Economic Review* 113(6): 1424-1460. https://doi.org/10.1257/aer.20201867
+Ang, Desmond. 2023. The birth of a nation: Media and racial hate. *American Economic Review* 113(6): 1424-1460. https://doi.org/10.1257/aer.20201867
 
 Atkin, David, 2016. “The Caloric Costs of Culture: Evidence from Indian Migrants,” *American Economic Review*,106 (4), 1144–1181. https://doi.org/10.1257/aer.20140297
 
-Atkin D, Colson-Sihra E, Shayo M. 2021. How do we choose our identity? A revealed preference approach using food consumption. *Journal of Political Economy* 129(4):1193–251 https://doi.org/10.1086/712761
+Atkin, David, Eve Colson-Sihra, and Moses Shayo. 2021. How do we choose our identity? A revealed preference approach using food consumption. *Journal of Political Economy* 129(4):1193–251 https://doi.org/10.1086/712761
 
 Bai, Liang, Wu, Liangwei. 2020. Political movement and trust formation: Evidence from the Cultural Revolution (1966–76). *European Economic Review* 122: 103331. https://doi.org/10.1016/j.euroecorev.2019.103331
 
@@ -442,7 +442,7 @@ Banerjee, Abhijit, Arun G Chandrasekhar, Esther Duflo, and Matthew O Jackson. 20
 
 Banerjee, Abhijit, Emily Breza, Arun G Chandrasekhar, Esther Duflo, Matthew O Jackson, and Cynthia Kinnan. 2024. "Changes in Social Network Structure in Response to Exposure to Formal Credit Markets." *Review of Economic Studies* 91 (3): 1331–1372. https://doi.org/10.1093/restud/rdad065
 
-Natalie Bau. 2021. “Can Policy Change Culture? Government Pension Plans and Traditional Kinship Practices.” *American Economic Review* 111 (6): 1880-1917. https://doi.org/10.1257/aer.20190098
+Bau, Natalie. 2021. “Can Policy Change Culture? Government Pension Plans and Traditional Kinship Practices.” *American Economic Review* 111 (6): 1880-1917. https://doi.org/10.1257/aer.20190098
 
 Bauer, Michal, Christopher Blattman, Julie Chytilová, Joseph Henrich, Edward Miguel, and Tamar Mitts. 2016. "Can War Foster Cooperation?" *Journal of Economic Perspectives* 30 (3): 249–274. https://doi.org/10.1257/jep.30.3.249
 
@@ -640,11 +640,11 @@ Luo, Kaicheng, Shaoda Wang, and David Y. Yang. 2025. "Laboratories of Autocracy:
 
 Mayshar, Joram, Omer Moav, and Luigi Pascali. 2022. "The Origin of the State: Land Productivity or Appropriability?" *Journal of Political Economy* 130 (4): 1091–1144. https://doi.org/10.1086/718372
 
-Muralidharan, K., P. Niehaus and S. Sukhtankar (2016). Building State Capacity: Evidence from Biometric Smartcards in India. *American Economic Review*, 106(10): 2895-2929 https://doi.org/10.1257/aer.20141346
+Muralidharan, Karthik, Paul Niehaus, and Sandip Sukhtankar (2016). Building State Capacity: Evidence from Biometric Smartcards in India. *American Economic Review*, 106(10): 2895-2929 https://doi.org/10.1257/aer.20141346
 
 Qian, Yingyi, and Barry R. Weingast. 1997. "Federalism as a Commitment to Preserving Market Incentives." *Journal of Economic Perspectives* 11 (4): 83-92. https://doi.org/10.1257/jep.11.4.83
 
-Sánchez De La Sierra R. 2020. On the origins of the state: stationary bandits and taxation in eastern Congo. *Journal of Political Economy*. 128(1):32–74 https://doi.org/10.1086/703989
+Sánchez de la Sierra, Raúl. 2020. On the origins of the state: stationary bandits and taxation in eastern Congo. *Journal of Political Economy*. 128(1):32–74 https://doi.org/10.1086/703989
 
 Suryanarayan, Pavithra. 2024. "Endogenous State Capacity." *Annual Review of Political Science* 27: 223–243. https://doi.org/10.1146/annurev-polisci-061621-084709
 
@@ -668,7 +668,7 @@ Burgess, Robin, Matthew Hansen, Benjamin A. Olken, Peter Potapov, and Stefanie S
 
 Callen, Michael, and James D. Long. 2015. "Institutional Corruption and Election Fraud: Evidence from a Field Experiment in Afghanistan." *American Economic Review*, 105 (1): 354-81. https://doi.org/10.1257/aer.20120427
 
-Enikolopov R, Petrova M, Sonin K. 2018. Social media and corruption. *Am. Econ. J. Appl. Econ.* 10:150–74 https://doi.org/10.1257/app.20160089
+Enikolopov, Ruben, Maria Petrova, and Konstantin Sonin. 2018. Social media and corruption. *Am. Econ. J. Appl. Econ.* 10:150–74 https://doi.org/10.1257/app.20160089
 
 Ferraz, Claudio, and Frederico Finan. 2008. "Exposing Corrupt Politicians: The Effects of Brazil's Publicly Released Audits on Electoral Outcomes." *Quarterly Journal of Economics* 123 (2): 703–745. https://doi.org/10.1162/qjec.2008.123.2.703
 
@@ -728,7 +728,7 @@ Acemoglu, Daron, Giuseppe De Feo, Giacomo De Luca, and Gianluca Russo. 2022. "Wa
 
 Acemoglu, Daron, Tarek A. Hassan, and James A. Robinson. 2011. "Social Structure and Development: A Legacy of the Holocaust in Russia." *Quarterly Journal of Economics* 126 (2): 895–946. https://doi.org/10.1093/qje/qjr018
 
-Adena M, Enikolopov R, Petrova M, Santarosa V, Zhuravskaya E. 2015. Radio and the rise of the Nazis in prewar Germany. *Quarterly Journal of Economics* 130:1885–939 https://doi.org/10.1093/qje/qjv030
+Adena, Maja, Ruben Enikolopov, Maria Petrova, Veronica Santarosa, and Ekaterina Zhuravskaya. 2015. Radio and the rise of the Nazis in prewar Germany. *Quarterly Journal of Economics* 130:1885–939 https://doi.org/10.1093/qje/qjv030
 
 Ager, Philipp, Leonardo Bursztyn, Lukas Leucht, and Hans-Joachim Voth. 2022. "Killer Incentives: Rivalry, Performance and Risk-Taking among German Fighter Pilots, 1939–45." *Review of Economic Studies* 89 (5): 2257–2292. https://doi.org/10.1093/restud/rdab085
 
@@ -970,7 +970,7 @@ Chen, Shuo, Kung, J. K. 2016. “Of Maize and Men: the Effect of a New World Cro
 
 Cherniwchan, Jevan, and Juan Moreno-Cruz. 2019. "Maize and Precolonial Africa." *Journal of Development Economics* 136:137-150. https://doi.org/10.1016/j.jdeveco.2018.10.008
 
-Jared Diamond. 1997. Guns, Germs, and Steel. New York: W.W. Norton & Co.
+Diamond, Jared. 1997. Guns, Germs, and Steel. New York: W.W. Norton & Co.
 
 *Easterly, William, and Ross Levine. 2016. "The European Origins of Economic Development." *Journal of Economic Growth* 21 (3):225-257. https://doi.org/10.1007/s10887-016-9130-y
 
@@ -986,7 +986,7 @@ Halbmeier, Christoph, and Carsten Schröder. 2025. "The Long-Term Implications o
 
 Heblich, Stephan, Marlon Seror, Hao Xu, and Yanos Zylberberg. 2026. "Industrial Clusters in the Long Run: Evidence from Million-Rouble Plants in China." *Review of Economic Studies*, advance online publication. https://doi.org/10.1093/restud/rdag078
 
-Jeffrey Herbst. 2010. States and Power in Africa, Princeton: Princeton University Press https://doi.org/10.23943/princeton/9780691164137.001.0001
+Herbst, Jeffrey. 2010. States and Power in Africa, Princeton: Princeton University Press https://doi.org/10.23943/princeton/9780691164137.001.0001
 
 Huillery, Elise. 2009. "History Matters: The Long-Term Impact of Colonial Public Investments in French West Africa." *American Economic Journal: Applied Economics* 1 (2):176-215. https://doi.org/10.1257/app.1.2.176
 
@@ -1024,7 +1024,7 @@ Nunn, Nathan, and Leonard Wantchekon. 2011. "The Slave Trade and the Origins of 
 
 Nunn, Nathan, and Nancy Qian. 2011. "The Potato's Contribution to Population and Urbanization: Evidence from a Historical Experiment." *Quarterly Journal of Economics* 126 (2):593-650. https://doi.org/10.1093/qje/qjr009
 
-Olsson, O. and C. Paik, 2016. Long-Run cultural divergence: Evidence from the Neolithic. *Journal of Development Economics*, 122, 197--213 https://doi.org/10.1016/j.jdeveco.2016.05.003
+Olsson, Ola, and Christopher Paik, 2016. Long-Run cultural divergence: Evidence from the Neolithic. *Journal of Development Economics*, 122, 197--213 https://doi.org/10.1016/j.jdeveco.2016.05.003
 
 Sequeira, Sandra, Nathan Nunn, and Nancy Qian. 2020. "Immigrants and the Making of America." *Review of Economic Studies* 87 (1): 382–419. https://doi.org/10.1093/restud/rdz003
 
@@ -1054,7 +1054,7 @@ Bellégo, Christophe, and Joeffrey Drouard. 2024. "Fighting Crime in Lawless Are
 
 Bo, Shiyu, Cong Liu, and Yan Zhou. 2023. "Military Investment and the Rise of Industrial Clusters: Evidence from China’s Self-Strengthening Movement." *Journal of Development Economics* 161: 103015. https://doi.org/10.1016/j.jdeveco.2022.103015
 
-Bu, D., and Liao, Y. 2022. Land property rights and rural enterprise growth: Evidence from land titling reform in China. *Journal of Development Economics*, 157, 102853. https://doi.org/10.1016/j.jdeveco.2022.102853
+Bu, Di, and Yin Liao. 2022. Land property rights and rural enterprise growth: Evidence from land titling reform in China. *Journal of Development Economics*, 157, 102853. https://doi.org/10.1016/j.jdeveco.2022.102853
 
 Cai, Ruohong. Shuaizhang Feng, Michael Oppenheimer, and Mariola Pytlikova. 2016. Climate Variability and International Migration: The Importance of the Agricultural Linkage. *Journal of Environmental Economics and Management* 79: 135-151. https://doi.org/10.1016/j.jeem.2016.06.005
 
@@ -1084,7 +1084,7 @@ Giorcelli, Michela, and Bo Li. 2026. "Technology Transfer and Early Industrial D
 
 Goldstein, Markus, and Christopher Udry. 2008. "The Profits of Power: Land Rights and Agricultural Investment in Ghana." *Journal of Political Economy* 116 (6): 981–1022. https://doi.org/10.1086/595561
 
-Charles Gottlieb and Jan Grobovšek. 2019. Communal Land and Agricultural Productivity. *Journal of Development Economics* 138: 135-152. https://doi.org/10.1016/j.jdeveco.2018.11.001
+Gottlieb, Charles, and Jan Grobovšek. 2019. Communal Land and Agricultural Productivity. *Journal of Development Economics* 138: 135-152. https://doi.org/10.1016/j.jdeveco.2018.11.001
 
 Heblich, Stephan, Marlon Seror, Hao Xu, and Yanos Zylberberg. 2026. "Industrial Clusters in the Long Run: Evidence from Million-Rouble Plants in China." *Review of Economic Studies*, advance online publication. https://doi.org/10.1093/restud/rdag078
 
@@ -1108,7 +1108,7 @@ Sequeira, Sandra, Nathan Nunn, and Nancy Qian. 2020. "Immigrants and the Making 
 
 Tabellini, Marco. 2020. "Gifts of the Immigrants, Woes of the Natives: Lessons from the Age of Mass Migration." *Review of Economic Studies* 87 (1): 454–486. https://doi.org/10.1093/restud/rdz027
 
-Zhang, L., Xie, L., & Zheng, X. 2023. Across a few prohibitive miles: The impact of the Anti-Poverty Relocation Program in China. *Journal of Development Economics*, 160, 102945. https://doi.org/10.1016/j.jdeveco.2022.102945
+Zhang, Li, Lunyu Xie, and Xinye Zheng. 2023. Across a few prohibitive miles: The impact of the Anti-Poverty Relocation Program in China. *Journal of Development Economics*, 160, 102945. https://doi.org/10.1016/j.jdeveco.2022.102945
 
 ## Health, Diseases, Resources, Environment
 
@@ -1140,7 +1140,7 @@ Chen, Yuyu, Avraham Ebenstein, Michael Greenstone, and Hongbin Li. 2013. "Eviden
 
 Cutler, David, Angus Deaton, and Adriana Lleras-Muney. 2006. “The Determinants of Mortality.” *Journal of Economic Perspectives* 20 (3): 97–120. https://doi.org/10.1257/jep.20.3.97
 
-Dalgaard, C. J., and Strulik, H. 2016. Physiology and development: Why the West is taller than the rest. *Economic Journal*, 126(598), 2292-2323. https://doi.org/10.1111/ecoj.12275
+Dalgaard, Carl-Johan, and Holger Strulik. 2016. Physiology and development: Why the West is taller than the rest. *Economic Journal*, 126(598), 2292-2323. https://doi.org/10.1111/ecoj.12275
 
 Das, Jishnu, Alaka Holla, Aakash Mohpal, and Karthik Muralidharan. 2016. "Quality and Accountability in Health Care Delivery: Audit-Study Evidence from Primary Care in India." *American Economic Review* 106 (12): 3765–3799. https://doi.org/10.1257/aer.20151138
 
@@ -1214,7 +1214,7 @@ Anderson, Siwan. 2007. "The Economics of Dowry and Brideprice." *Journal of Econ
 
 Angelucci, Manuela. 2008. "Love on the Rocks: Domestic Violence and Alcohol Abuse in Rural Mexico." *B.E. Journal of Economic Analysis & Policy* 8 (1): Article 43. https://doi.org/10.2202/1935-1682.1766
 
-Barr, A., M. Dekker, W. Janssens, B. Kebede, and B. Kramer. 2018. Cooperation in Polygynous Households. *American Economic Journal: Applied Economics*. 11(2), 266-283. https://doi.org/10.1257/app.20170438
+Barr, Abigail, Marleen Dekker, Wendy Janssens, Bereket Kebede, and Berber Kramer. 2018. Cooperation in Polygynous Households. *American Economic Journal: Applied Economics*. 11(2), 266-283. https://doi.org/10.1257/app.20170438
 
 Barro, Robert J., and Gary S. Becker. 1989. "Fertility Choice in a Model of Economic Growth." *Econometrica* 57 (2):481-501. https://doi.org/10.2307/1912563
 
@@ -1234,7 +1234,7 @@ Cervellati, Matteo, Uwe Sunde, and Klaus F. Zimmermann. 2017. "Demographic Dynam
 
 Chen, Yuyu, Hongbin Li, and Lingsheng Meng. 2013. "Prenatal Sex Selection and Missing Girls in China: Evidence from the Diffusion of Diagnostic Ultrasound." *Journal of Human Resources* 48 (1):36-70. https://doi.org/10.1353/jhr.2013.0003
 
-Chiappori, P.-A., and M. Mazzocco. 2017. Static and Intertemporal Household Decisions. *Journal of Economic Literature*, 55(3), 985-1045. https://doi.org/10.1257/jel.20150715
+Chiappori, Pierre-Andre, and Maurizio Mazzocco. 2017. Static and Intertemporal Household Decisions. *Journal of Economic Literature*, 55(3), 985-1045. https://doi.org/10.1257/jel.20150715
 
 de Janvry, Alain, Marco Gonzalez-Navarro, and Elisabeth Sadoulet. 2014. " Are Land Reforms Granting Complete Property Rights Politically Risky? Electoral Outcomes of Mexico's Certification Program." *Journal of Development Economics* 110: 216–225. https://doi.org/10.1016/j.jdeveco.2013.04.003
 
@@ -1250,7 +1250,7 @@ Ghosh, Arkadev, Sam Il Myoung Hwang, and Munir Squires. 2023. "Economic Conseque
 
 Goldin, Claudia, and Lawrence F Katz. 2002. "The Power of the Pill: Oral Contraceptives and Women’s Career and Marriage Decisions." *Journal of Political Economy* 110 (4):730-770. https://doi.org/10.1086/340778
 
-Herzer, D., Strulik, H., and Vollmer, S. 2012. The long-run determinants of fertility: one century of demographic change 1900–1999.*Journal of Economic Growth*, 1-29 https://doi.org/10.1007/s10887-012-9085-6
+Herzer, Dierk, Holger Strulik, and Sebastian Vollmer. 2012. The long-run determinants of fertility: one century of demographic change 1900–1999.*Journal of Economic Growth*, 1-29 https://doi.org/10.1007/s10887-012-9085-6
 
 Hidrobo, Melissa, Amber Peterman, and Lori Heise. 2016. "The Effect of Cash, Vouchers, and Food Transfers on Intimate Partner Violence: Evidence from a Randomized Experiment in Northern Ecuador." *American Economic Journal: Applied Economics* 8 (3): 284–303. https://doi.org/10.1257/app.20150048
 
@@ -1258,7 +1258,7 @@ Huang, Wei. Xiaoyan Lei, and Yaohui Zhao. 2016. One-Child Policy and the Rise of
 
 Jayachandran, Seema, and Ilyana Kuziemko. 2011. "Why Do Mothers Breastfeed Girls Less Than Boys? Evidence and Implications for Child Health in India." *Quarterly Journal of Economics* 126 (3):1485-1538. https://doi.org/10.1093/qje/qjr029
 
-Lee, R. 2003. The demographic transition: three centuries of fundamental change. *Journal of Economic Perspectives*, 17(4), 167-190. https://doi.org/10.1257/089533003772034943
+Lee, Ronald. 2003. The demographic transition: three centuries of fundamental change. *Journal of Economic Perspectives*, 17(4), 167-190. https://doi.org/10.1257/089533003772034943
 
 Liang, Ruobing; Xiaobing Wang and Futoshi Yamauchi. 2021. "Cotton Revolution and Widow Chastity in Ming and Qing China." *American Journal of Agricultural Economics*, 103(1), 232-52. https://doi.org/10.1002/ajae.12085
 
@@ -1486,7 +1486,7 @@ Premand, Patrick, and Dominic Rohner. 2024. "Cash and Conflict: Large-Scale Expe
 
 Schultz, T Paul. 2004. "School Subsidies for the Poor: Evaluating the Mexican Progresa Poverty program." *Journal of Development Economics* 74 (1):199-250. https://doi.org/10.1016/j.jdeveco.2003.12.009
 
-Zhang, L., Xie, L., & Zheng, X. 2023. Across a few prohibitive miles: The impact of the Anti-Poverty Relocation Program in China. *Journal of Development Economics*, 160, 102945. https://doi.org/10.1016/j.jdeveco.2022.102945
+Zhang, Li, Lunyu Xie, and Xinye Zheng. 2023. Across a few prohibitive miles: The impact of the Anti-Poverty Relocation Program in China. *Journal of Development Economics*, 160, 102945. https://doi.org/10.1016/j.jdeveco.2022.102945
 
 ## China: The Past and Present
 
@@ -1514,7 +1514,7 @@ Brandt, Loren, Debin Ma, and Thomas G. Rawski. 2014. "From Divergence to Converg
 
 Broadberry, Stephen, Hanhui Guan, and David Daokui Li. 2018. “China, Europe, and the Great Divergence: A Study in Historical National Accounting, 980–1850.” *Journal of Economic History*, 78(4), 1–46. https://doi.org/10.1017/s0022050718000529
 
-Bu, D., and Liao, Y. 2022. Land property rights and rural enterprise growth: Evidence from land titling reform in China. *Journal of Development Economics*, 157, 102853. https://doi.org/10.1016/j.jdeveco.2022.102853
+Bu, Di, and Yin Liao. 2022. Land property rights and rural enterprise growth: Evidence from land titling reform in China. *Journal of Development Economics*, 157, 102853. https://doi.org/10.1016/j.jdeveco.2022.102853
 
 Cantoni, Davide, David Y Yang, Noam Yuchtman, and Y Jane Zhang. 2019. "Protests as Strategic Games: Experimental Evidence from Hong Kong's Antiauthoritarian Movement." *Quarterly Journal of Economics* 134 (2): 1021–1077. https://doi.org/10.1093/qje/qjz002
 
@@ -1530,7 +1530,7 @@ Chen, Shuo, Kung, J. K. 2016. “Of Maize and Men: the Effect of a New World Cro
 
 *Chen, Ting, James Kai-sing Kung, and Chicheng Ma. 2020. "Long Live Keju! The Persistent Effects of China's Civil Examination System." *Economic Journal* 130 (631): 2030–2064. https://doi.org/10.1093/ej/ueaa043
 
-Chen, Yi and Fan, Ziying and Gu, Xiaomin and Zhou, Li-An, Arrival of Young Talent: The Send-down Movement and Rural Education in China. *American Economic Review* 110(11), 3393－3430. https://doi.org/10.1257/aer.20191414
+Chen, Yi, Ziying Fan, Xiaomin Gu, and Li-An Zhou. Arrival of Young Talent: The Send-down Movement and Rural Education in China. *American Economic Review* 110(11), 3393－3430. https://doi.org/10.1257/aer.20191414
 
 Chen, Yu, Shaobin Shi, and Yugang Tang. 2019. "Valuing the Urban Hukou in China: Evidence from a Regression Discontinuity Design for Housing Prices." *Journal of Development Economics* 141: 102381. https://doi.org/10.1016/j.jdeveco.2019.102381
 
@@ -1562,7 +1562,7 @@ Fisman, Raymond, and Yongxiang Wang. 2017. "The Distortionary Effects of Incenti
 
 Giorcelli, Michela, and Bo Li. 2026. "Technology Transfer and Early Industrial Development: Evidence from the Sino-Soviet Alliance." *Review of Economic Studies*, advance online publication. https://doi.org/10.1093/restud/rdag047
 
-Hao, Y., Liu, Z., Weng, X., and Zhou, L. 2022. The Making of Bad Gentry: The Abolition of Keju, Local Governance, and Anti-Elite Protests, 1902–1911. *Journal of Economic History* 82(3): 625-661. https://doi.org/10.1017/s0022050722000225
+Hao, Yu, Zhengcheng Liu, Xi Weng, and Li-an Zhou. 2022. The Making of Bad Gentry: The Abolition of Keju, Local Governance, and Anti-Elite Protests, 1902–1911. *Journal of Economic History* 82(3): 625-661. https://doi.org/10.1017/s0022050722000225
 
 He, Guojun, and Shaoda Wang. 2017. "Do College Graduates Serving as Village Officials Help Rural China?" *American Economic Journal: Applied Economics* 9 (4):186-215. https://doi.org/10.1257/app.20160079
 
@@ -1582,7 +1582,7 @@ Jia, Ruixue. 2014. "The Legacies of Forced Freedom: China's Treaty Ports." *Revi
 
 Kaboski, Joseph P., Will Jianyu Lu, Wei Qian, and Lixia Ren. 2026. "Melitz Meets Lewis: The Impacts of Roads on Structural Transformation and Businesses." *Journal of International Economics* 162: 104310. https://doi.org/10.1016/j.jinteco.2026.104310
 
-King G, Pan J, Roberts ME. 2017. How the Chinese government fabricates social media posts for strategic distraction, not engaged argument. *Am. Political Sci. Rev*. 111:484–501 https://doi.org/10.1017/s0003055417000144
+King, Gary, Jennifer Pan, and Margaret E. Roberts. 2017. How the Chinese government fabricates social media posts for strategic distraction, not engaged argument. *Am. Political Sci. Rev*. 111:484–501 https://doi.org/10.1017/s0003055417000144
 
 Kung, James Kai-sing, and Chicheng Ma. 2014. "Can Cultural Norms Reduce Conflicts? Confucianism and Peasant Rebellions in Qing China." *Journal of Development Economics* 111:132-149. https://doi.org/10.1016/j.jdeveco.2014.08.006
 
@@ -1594,7 +1594,7 @@ Lai, Weizheng, Lixin Colin Xu, and Li Yang. 2026. "Stationary Bandits, State Cap
 
 Lan, Xiaohuan, and Ben G. Li. 2015. "The Economics of Nationalism." *American Economic Journal: Economic Policy* 7 (2):294-325. https://doi.org/10.1257/pol.20130020
 
-Landes, D. S. 2006. "Why Europe and the West? Why Not China?" *Journal of Economic Perspectives* 20(2): 3-22. https://doi.org/10.1257/jep.20.2.3
+Landes, David S. 2006. "Why Europe and the West? Why Not China?" *Journal of Economic Perspectives* 20(2): 3-22. https://doi.org/10.1257/jep.20.2.3
 
 Li, Hongbin, Prashant Loyalka, Scott Rozelle, and Binzhen Wu. 2017. “Human Capital and China’s Future Growth.” *Journal of Economic Perspectives* 31 (1): 25–48. https://doi.org/10.1257/jep.31.1.25
 
@@ -1636,11 +1636,11 @@ Qian, Ruoyu. 2024. Communist propaganda and women’s status. *Journal of Develo
 
 Qian, Yingyi, and Barry R. Weingast. 1997. "Federalism as a Commitment to Preserving Market Incentives." *Journal of Economic Perspectives* 11 (4): 83-92. https://doi.org/10.1257/jep.11.4.83
 
+Qin, Bei, David Strömberg, and Yanhui Wu. 2017. Why does China allow freer social media? Protests versus surveillance and propaganda. *Journal of Economic Perspectives* 31:117–40 https://doi.org/10.1257/jep.31.1.117
+
 Qin, Bei, David Strömberg, and Yanhui Wu. 2018. "Media Bias in China." *American Economic Review*, 108 (9): 2442-76. https://doi.org/10.1257/aer.20170947
 
 Qin, Bei, David Strömberg, and Yanhui Wu. 2024. "Social Media and Collective Action in China." *Econometrica* 92 (6): 1993–2026. https://doi.org/10.3982/ecta20146
-
-Qin B, Strömberg D, Wu Y. 2017. Why does China allow freer social media? Protests versus surveillance and propaganda. *Journal of Economic Perspectives* 31:117–40 https://doi.org/10.1257/jep.31.1.117
 
 Rosenzweig, Mark R., and Junsen Zhang. 2009. "Do Population Control Policies Induce More Human Capital Investment? Twins, Birth Weight and China's “One-Child” Policy." *Review of Economic Studies* 76 (3):1149-1174. https://doi.org/10.1111/j.1467-937x.2009.00563.x
 
@@ -1656,7 +1656,7 @@ Wei, Shang-Jin, and Xiaobo Zhang. 2011. "The Competitive Saving Motive: Evidence
 
 Wei, Shang-Jin, Zhuan Xie, and Xiaobo Zhang. 2017. “From ‘Made in China’ to ‘Innovated in China’: Necessity, Prospect, and Challenges.” *Journal of Economic Perspectives* 31 (1): 49–70. https://doi.org/10.1257/jep.31.1.49
 
-Zhang, L., Xie, L., & Zheng, X. 2023. Across a few prohibitive miles: The impact of the Anti-Poverty Relocation Program in China. *Journal of Development Economics*, 160, 102945. https://doi.org/10.1016/j.jdeveco.2022.102945
+Zhang, Li, Lunyu Xie, and Xinye Zheng. 2023. Across a few prohibitive miles: The impact of the Anti-Poverty Relocation Program in China. *Journal of Development Economics*, 160, 102945. https://doi.org/10.1016/j.jdeveco.2022.102945
 
 *Zhu, Xiaodong. 2012. "Understanding China's Growth: Past, Present, and Future." *Journal of Economic Perspectives* 26 (4):103-124. https://doi.org/10.1257/jep.26.4.103
 
