@@ -56,6 +56,8 @@ Maertens, Annemi, and Christopher Barrett. 2013. “Measuring Social Networks' E
 
 Munnell, Alicia H. 1992. "Policy Watch: Infrastructure Investment and Economic Growth." *Journal of Economic Perspectives* 6 (4):189-198. https://doi.org/10.1257/jep.6.4.189
 
+Song, Zheng, and Wei Xiong. 2026. "The Mandarin Model of Growth." *American Economic Review*, forthcoming.
+
 Strulik, H., Prettner, K., & Prskawetz, A. 2013. The past and future of knowledge-based growth. *Journal of Economic Growth*, 18(4), 411-437 https://doi.org/10.1007/s10887-013-9098-9
 
 *Song, Zheng, Kjetil Storesletten, and Fabrizio Zilibotti. 2011. "Growing Like China." *American Economic Review* 101 (1):196-233. https://doi.org/10.1257/aer.101.1.196
@@ -111,6 +113,8 @@ Kaboski, Joseph P., Will Jianyu Lu, Wei Qian, and Lixia Ren. 2026. "Melitz Meets
 Michaels, Guy, Dzhamilya Nigmatulina, Ferdinand Rauch, Tanner Regan, Neeraj Baruah, and Amanda Dahlstrand. 2021. "Planning Ahead for Better Neighborhoods: Long-Run Evidence from Tanzania." *Journal of Political Economy* 129 (7): 2112–2156. https://doi.org/10.1086/714119
 
 Munnell, Alicia H. 1992. "Policy Watch: Infrastructure Investment and Economic Growth." *Journal of Economic Perspectives* 6 (4):189-198. https://doi.org/10.1257/jep.6.4.189
+
+Song, Zheng, and Wei Xiong. 2026. "The Mandarin Model of Growth." *American Economic Review*, forthcoming.
 
 ## Industrial Policy
 
@@ -205,6 +209,8 @@ Olson, M., 1993. Dictatorship, democracy, and development. *American political s
 Przeworski, Adam, *et al.* Democracy and Development: Political Institutions and Well-Being in the World, 1950-1990. Vol. 3. Cambridge University Press, 2000. https://doi.org/10.1017/cbo9780511804946
 
 Putnam, Robert H. 1993. Making Democracy Work, Princeton: Princeton University Press. https://doi.org/10.1515/9781400820740
+
+Song, Zheng, and Wei Xiong. 2026. "The Mandarin Model of Growth." *American Economic Review*, forthcoming.
 
 Wittman, Donald. 1989. "Why Democracies Produce Efficient Results," *Journal of Political Economy* 97(6): 1395-1424. https://doi.org/10.1086/261660
 
@@ -1637,6 +1643,8 @@ Qin, Bei, David Strömberg, and Yanhui Wu. 2024. "Social Media and Collective Ac
 Rosenzweig, Mark R., and Junsen Zhang. 2009. "Do Population Control Policies Induce More Human Capital Investment? Twins, Birth Weight and China's “One-Child” Policy." *Review of Economic Studies* 76 (3):1149-1174. https://doi.org/10.1111/j.1467-937x.2009.00563.x
 
 Shen, Yan, and Yang Yao. 2008. "Does Grassroots Democracy Reduce Income Inequality in China?" *Journal of Public Economics* 92 (10-11):2182-2198. https://doi.org/10.1016/j.jpubeco.2008.04.002
+
+Song, Zheng, and Wei Xiong. 2026. "The Mandarin Model of Growth." *American Economic Review*, forthcoming.
 
 *Song, Zheng, Kjetil Storesletten, and Fabrizio Zilibotti. 2011. "Growing Like China." *American Economic Review* 101 (1):196-233. https://doi.org/10.1257/aer.101.1.196
 
