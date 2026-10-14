@@ -642,96 +642,6 @@ Lai, Weizheng, Lixin Colin Xu, and Li Yang. 2026. "Stationary Bandits, State Cap
 
 Suryanarayan, Pavithra. 2024. "Endogenous State Capacity." *Annual Review of Political Science* 27: 223–243. https://doi.org/10.1146/annurev-polisci-061621-084709
 
-## Health, Diseases, Resources, Environment
-
-Acemoglu, Daron, and Simon Johnson. 2007. "Disease and Development: The Effect of Life Expectancy on Economic Growth." *Journal of Political Economy* 115(6): 925-985. https://doi.org/10.1086/529000
-
-Adda, Jérôme. 2016. "Economic Activity and the Spread of Viral Diseases: Evidence from High Frequency Data." *Quarterly Journal of Economics* 131 (2):891-941. https://doi.org/10.1093/qje/qjw005
-
-Almond, Douglas. 2006. “Is the 1918 Influenza Pandemic Over? Long‐Term Effects of In Utero Influenza Exposure in the Post‐1940 U.S. Population.” *Journal of Political Economy*, 114(4), 672– 712. https://doi.org/10.1086/507154
-
-Alsan, Marcella. 2015. "The Effect of the Tsetse Fly on African Development." *American Economic Review* 105 (1):382-410. https://doi.org/10.1257/aer.20130604
-
-Besley, Timothy, and Torsten Persson. 2023. "The Political Economics of Green Transitions." *Quarterly Journal of Economics* 138 (3): 1863–1906. https://doi.org/10.1093/qje/qjad006
-
-Bloom, David E., David Canning, and Günther Fink. 2014. "Disease and Development Revisited." *Journal of Political Economy* 122 (6):1355-1366. https://doi.org/10.1086/677189
-
-Buonanno, Paolo, Ruben Durante, Giovanni Prarolo, and Paolo Vanin. 2015. "Poor Institutions, Rich Mines: Resource Curse in the Origins of the Sicilian Mafia." *Economic Journal* 125 (586):F175-F202. https://doi.org/10.1111/ecoj.12236
-
-Burgess, Robin, Matthew Hansen, Benjamin A. Olken, Peter Potapov, and Stefanie Sieber. 2012. "The Political Economy of Deforestation in the Tropics." *Quarterly Journal of Economics* 127 (4): 1707–1754. https://doi.org/10.1093/qje/qjs034
-
-Cabrales, Antonio, and Esther Hauk. 2011. "The Quality of Political Institutions and the Curse of Natural Resources." *Economic Journal* 121 (551):58-88. https://doi.org/10.1111/j.1468-0297.2010.02390.x
-
-Das, Jishnu, Alaka Holla, Aakash Mohpal, and Karthik Muralidharan. 2016. "Quality and Accountability in Health Care Delivery: Audit-Study Evidence from Primary Care in India." *American Economic Review* 106 (12): 3765–3799. https://doi.org/10.1257/aer.20151138
-
-Duhon, Madeline, Edward Miguel, Amos Njuguna, Daniela Pinto Veizaga, and Michael Walker. 2026. "Preparing for an Aging Africa: Data-Driven Priorities for Economic Research and Policy." *Journal of Political Economy Microeconomics* 4 (3): 797–847. https://doi.org/10.1086/737243
-
-Dupas, Pascaline, and Edward Miguel. 2017. "Impacts and Determinants of Health Levels in Low-Income Countries." In *Handbook of Economic Field Experiments*, Vol. 2, edited by Abhijit V. Banerjee and Esther Duflo, 3–93. Amsterdam: North-Holland. https://doi.org/10.1016/bs.hefe.2016.09.003
-
-Gallup, John Luke, and Jeffrey D Sachs. 2001. "The Economic Burden of Malaria." *American Journal of Tropical Medicine and Hygiene* 64 (1_suppl):85-96. https://doi.org/10.4269/ajtmh.2001.64.85
-
-Canning, David. 2006. “The Economics of HIV/AIDS in Low-Income Countries: The Case for Prevention.” *Journal of Economic Perspectives* 20 (3): 121–142. https://doi.org/10.1257/jep.20.3.121
-
-Caselli, Francesco, and Andrea Tesei. 2015. "Resource Windfalls, Political Regimes, and Political Stability." *Review of Economics and Statistics* 98 (3):573-590. https://doi.org/10.1162/rest_a_00538
-
-Cutler, David, Angus Deaton, and Adriana Lleras-Muney. 2006. “The Determinants of Mortality.” *Journal of Economic Perspectives* 20 (3): 97–120. https://doi.org/10.1257/jep.20.3.97
-
-Dalgaard, C. J., and Strulik, H. 2016. Physiology and development: Why the West is taller than the rest. *Economic Journal*, 126(598), 2292-2323. https://doi.org/10.1111/ecoj.12275
-
-*Deaton, Angus. 2003. "Health, Inequality, and Economic Development." *Journal of Economic Literature* 41 (1):113-158. https://doi.org/10.1257/jel.41.1.113
-
-Deaton, Angus. 2013. *The Great Escape: Health, Wealth, and the Origins of Inequality*: Princeton University Press. https://doi.org/10.1515/9780691259253
-
-Diamond, Jared M. 1998. *Guns, Germs and Steel: A Short History of Everybody for the Last 13,000 Years*: Random House.
-
-Fenske, James, and Igor Zurimendi. 2017. "Oil and Ethnic Inequality in Nigeria." *Journal of Economic Growth* 22 (4):397-420. https://doi.org/10.1007/s10887-017-9149-8
-
-Flückiger, Matthias; Markus Ludwig and Ali Sina Önder. 2019. "Ebola and State Legitimacy."*Economic Journal*, 129(621), 2064-89. https://doi.org/10.1111/ecoj.12638
-
-Hamory, Joan, Edward Miguel, Michael Walker, Michael Kremer, and Sarah Baird. 2021. "Twenty-Year Economic Impacts of Deworming." *Proceedings of the National Academy of Sciences* 118 (14): e2023185118. https://doi.org/10.1073/pnas.2023185118
-
-Hodler, Roland, Paul Schaudt, and Alberto Vesperoni. 2026. "Mining for Peace." *Journal of the European Economic Association*, advance online publication. https://doi.org/10.1093/jeea/jvag031
-
-Hsiang, Solomon M., Marshall Burke, and Edward Miguel. 2013. "Quantifying the Influence of Climate on Human Conflict." *Science* 341 (6151): 1235367. https://doi.org/10.1126/science.1235367
-
-Karing, Anne. 2024. "Social Signaling and Childhood Immunization: A Field Experiment in Sierra Leone." *Quarterly Journal of Economics* 139 (4): 2083–2133. https://doi.org/10.1093/qje/qjae025
-
-Lipscomb, Molly, and Ahmed Mushfiq Mobarak. 2017. "Decentralization and Pollution Spillovers: Evidence from the Re-drawing of County Borders in Brazil." *Review of Economic Studies* 84 (1): 464–502. https://doi.org/10.1093/restud/rdw023
-
-Lowes, Sara, and Eduardo Montero. 2021. "The Legacy of Colonial Medicine in Central Africa." *American Economic Review* 111 (4): 1284–1314. https://doi.org/10.1257/aer.20180284
-
-McGuirk, Eoin F, and Nathan Nunn. 2025. "Transhumant Pastoralism, Climate Change, and Conflict in Africa." *Review of Economic Studies* 92 (1): 404–441. https://doi.org/10.1093/restud/rdae027
-
-Nunn, Nathan, and Diego Puga. 2012. "Ruggedness: The Blessing of Bad Geography in Africa." *Review of Economics and Statistics* 94 (1):20-36. https://doi.org/10.1162/rest_a_00161
-
-Okeke, Edward N. 2023. "When a Doctor Falls from the Sky: The Impact of Easing Doctor Supply Constraints on Mortality." *American Economic Review* 113 (3): 585–627. https://doi.org/10.1257/aer.20210701
-
-Oliva, Paulina. 2015. "Environmental Regulations and Corruption: Automobile Emissions in Mexico City." *Journal of Political Economy* 123 (3): 686–724. https://doi.org/10.1086/680936
-
-Pelzl, Paul, Steven Poelhekke. 2021. Good mine, bad mine: Natural resource heterogeneity and Dutch disease in Indonesia. *Journal of International Economics* 131, 103457. https://doi.org/10.1016/j.jinteco.2021.103457
-
-Sachs, Jeffrey D. and Andrew M. Warner. 1999. "The Big Push, Natural Resource Booms and Growth" *Journal of Development Economics* 59(1): 43-76. https://doi.org/10.1016/s0304-3878(99)00005-x
-
-Sachs, Jeffrey D, and Andrew M Warner. 2001. "The Curse of Natural Resources." *European Economic Review* 45 (4):827-838. https://doi.org/10.1016/s0014-2921(01)00125-8
-
-Taylor, M. Scott. 2011. "Buffalo Hunt: International Trade and the Virtual Extinction of the North American Bison." *American Economic Review* 101 (7): 3162–3195. https://doi.org/10.1257/aer.101.7.3162
-
-*Van der Ploeg, Frederick. 2011. "Natural Resources: Curse or Blessing?" *Journal of Economic Literature* 49 (2):366-420. https://doi.org/10.1257/jel.49.2.366
-
-*Venables, Anthony J. 2016. “Using Natural Resources for Development: Why Has It Proven So Difficult?” *Journal of Economic Perspectives* 30 (1): 161–184. https://doi.org/10.1257/jep.30.1.161
-
-Waldinger, Maria. 2022. The Economic Effects of Long-Term Climate Change: Evidence from the Little Ice Age. *Journal of Political Economy* 130(9): 2275-2314 https://doi.org/10.1086/720393
-
-Young, Alwyn. 2005. "The Gift of the Dying: The Tragedy of Aids and the Welfare of Future African Generations." *Quarterly Journal of Economics* 120 (2):423-466. https://doi.org/10.1162/0033553053970223
-
-Chen, Yuyu, Avraham Ebenstein, Michael Greenstone, and Hongbin Li. 2013. "Evidence on the impact of sustained exposure to air pollution on life expectancy from China’s Huai River Policy." *Proceedings of the National Academy of Sciences* 110 (32): 12936-12941. https://doi.org/10.1073/pnas.1300018110
-
-Chen, Yuyu, and Li-An Zhou. 2007. "The Long-Term Health and Economic Consequences of the 1959–1961 Famine in China." *Journal of Health Economics* 26 (4):659-681. https://doi.org/10.1016/j.jhealeco.2006.12.006
-
-Hong, Ji Yeon. 2018. "How Natural Resources Affect Authoritarian Leaders’ Provision of Public Services: Evidence from China." *Journal of Politics* 80 (1):178-194. https://doi.org/10.1086/694199
-
-He, Guojun, Yang Xie, and Bing Zhang. 2020. "Expressways, GDP, and the Environment: The Case of China." *Journal of Development Economics* 145: 102485. https://doi.org/10.1016/j.jdeveco.2020.102485
-
 ## Corruption
 
 Avis, Eric, Claudio Ferraz, and Frederico Finan. 2018. "Do Government Audits Reduce Corruption? Estimating the Impacts of Exposing Corrupt Politicians." *Journal of Political Economy* 126 (5):1912-1964. https://doi.org/10.1086/699209
@@ -804,11 +714,21 @@ Abadie, Alberto, and Javier Gardeazabal. 2003. "The Economic Costs of Conflict: 
 
 Acemoglu, Daron, and Alexander Wolitzky. 2014. "Cycles of Conflict: An Economic Model." *American Economic Review* 104 (4): 1350–1367. https://doi.org/10.1257/aer.104.4.1350
 
-Acemoglu, Daron, Giuseppe De Feo, Giacomo De Luca, and Gianluca Russo. 2022. "War, Socialism, and the Rise of Fascism: An Empirical Exploration." *Quarterly Journal of Economics* 137 (2): 1233–1296. https://doi.org/10.1093/qje/qjac001
+Acemoglu, Daron, David H. Autor, and David Lyle. 2004. "Women, War, and Wages: The Effect of Female Labor Supply on the Wage Structure at Midcentury." *Journal of Political Economy* 112 (3): 497–551. https://doi.org/10.1086/383100
 
 Acemoglu, Daron, Giuseppe De Feo, and Giacomo Davide De Luca. 2020. "Weak States: Causes and Consequences of the Sicilian Mafia." *Review of Economic Studies* 87 (2): 537–581. https://doi.org/10.1093/restud/rdz009
 
+Acemoglu, Daron, Giuseppe De Feo, Giacomo De Luca, and Gianluca Russo. 2022. "War, Socialism, and the Rise of Fascism: An Empirical Exploration." *Quarterly Journal of Economics* 137 (2): 1233–1296. https://doi.org/10.1093/qje/qjac001
+
+Acemoglu, Daron, Tarek A. Hassan, and James A. Robinson. 2011. "Social Structure and Development: A Legacy of the Holocaust in Russia." *Quarterly Journal of Economics* 126 (2): 895–946. https://doi.org/10.1093/qje/qjr018
+
 Adena M, Enikolopov R, Petrova M, Santarosa V, Zhuravskaya E. 2015. Radio and the rise of the Nazis in prewar Germany. *Quarterly Journal of Economics* 130:1885–939 https://doi.org/10.1093/qje/qjv030
+
+Ager, Philipp, Leonardo Bursztyn, Lukas Leucht, and Hans-Joachim Voth. 2022. "Killer Incentives: Rivalry, Performance and Risk-Taking among German Fighter Pilots, 1939–45." *Review of Economic Studies* 89 (5): 2257–2292. https://doi.org/10.1093/restud/rdab085
+
+Alesina, Alberto, and Enrico Spolaore. 2005. "War, Peace, and the Size of Countries." *Journal of Public Economics* 89 (7):1333-1354. https://doi.org/10.1016/j.jpubeco.2003.07.013
+
+Alesina, Alberto, Bryony Reich, and Alessandro Riboni. 2020. "Nation-Building, Nationalism, and Wars." *Journal of Economic Growth* 25 (4): 381-430. https://doi.org/10.1007/s10887-020-09182-7
 
 Alesina, Alberto, Salvatore Piccolo, and Paolo Pinotti. 2019. "Organized Crime, Violence, and Politics." *Review of Economic Studies* 86 (2): 457–499. https://doi.org/10.1093/restud/rdy036
 
@@ -818,17 +738,27 @@ Arbatlı, Cemal Eren; Quamrul H. Ashraf; Oded Galor and Marc Klemp. 2020. "Diver
 
 Armand, Alex, Paul Atwell, and Joseph F. Gomes. 2020. "The Reach of Radio: Ending Civil Conflict through Rebel Demobilization." *American Economic Review* 110 (5): 1395–1429. https://doi.org/10.1257/aer.20181135
 
+Bai, Ying, Ruixue Jia, and Jiaojiao Yang. 2023. "Web of Power: How Elite Networks Shaped War and Politics in China." *Quarterly Journal of Economics* 138(2): 1067–1108. https://doi.org/10.1093/qje/qjac041
+
+Bauer, Michal, Christopher Blattman, Julie Chytilová, Joseph Henrich, Edward Miguel, and Tamar Mitts. 2016. "Can War Foster Cooperation?" *Journal of Economic Perspectives* 30 (3): 249–274. https://doi.org/10.1257/jep.30.3.249
+
 Bazzi, Samuel, and Christopher Blattman. 2014. "Economic Shocks and Conflict: Evidence from Commodity Prices." *American Economic Journal: Macroeconomics* 6 (4):1-38. https://doi.org/10.1257/mac.6.4.1
 
 Becker, Sascha O., and Luigi Pascali. 2019. "Religion, Division of Labor, and Conflict: Anti-Semitism in Germany over 600 Years." *American Economic Review* 109 (5): 1764–1804. https://doi.org/10.1257/aer.20170279
 
 Bellégo, Christophe, and Joeffrey Drouard. 2024. "Fighting Crime in Lawless Areas: Evidence from Slums in Rio de Janeiro." *American Economic Journal: Economic Policy* 16 (1): 124–159. https://doi.org/10.1257/pol.20200587
 
+Bellemare, Marc. 2013. Rising Food Prices, Food Price Volatility, and Social Unrest. *American Journal of Agricultural Economics*. 2013. 97(1): 1-21. https://doi.org/10.1093/ajae/aau038
+
+Berger, Daniel, William Easterly, Nathan Nunn, and Shanker Satyanath. 2013. "Commercial Imperialism? Political Influence and Trade During the Cold War." *American Economic Review* 103 (2):863-96. https://doi.org/10.1257/aer.103.2.863
+
+*Berman, Eli, Jacob N. Shapiro, and Joseph H. Felter. 2011. "Can Hearts and Minds Be Bought? The Economics of Counterinsurgency in Iraq." *Journal of Political Economy* 119 (4):766-819. https://doi.org/10.1086/661983
+
 Berman, Nicolas, and Mathieu Couttenier. 2015. "External Shocks, Internal Shots: The Geography of Civil Conflicts." *Review of Economics and Statistics* 97 (4):758-776. https://doi.org/10.1162/rest_a_00521
 
 Berman, Nicolas, Mathieu Couttenier, Dominic Rohner, and Mathias Thoenig. 2017. "This Mine Is Mine! How Minerals Fuel Conflicts in Africa." *American Economic Review* 107 (6):1564-1610. https://doi.org/10.1257/aer.20150774
 
-Bellemare, Marc. 2013. Rising Food Prices, Food Price Volatility, and Social Unrest. *American Journal of Agricultural Economics*. 2013. 97(1): 1-21. https://doi.org/10.1093/ajae/aau038
+*Besley, Timothy, and Torsten Persson. 2009. "The Origins of State Capacity: Property Rights, Taxation, and Politics." *American Economic Review* 99 (4):1218-1244. https://doi.org/10.1257/aer.99.4.1218
 
 Besley, Timothy, and Torsten Persson. 2010. "State Capacity, Conflict, and Development." *Econometrica* 78 (1):1-34. https://doi.org/10.3982/ecta8073
 
@@ -840,6 +770,12 @@ Blattman, Christopher, Julian C. Jamison, and Margaret Sheridan. 2017. "Reducing
 
 Blattman, Christopher. 2022. *Why We Fight: The Roots of War and the Paths to Peace*. New York: Viking.
 
+Cagé, Julia, Anna Dagorret, Pauline Grosjean, and Saumitra Jha. 2023. "Heroes and Villains: The Effects of Heroism on Autocratic Values and Nazi Collaboration in France." *American Economic Review* 113 (7): 1888-1932. https://doi.org/10.1257/aer.20211509
+
+Caprettini, Bruno, and Hans-Joachim Voth. 2023. "New Deal, New Patriots: How 1930s Government Spending Boosted Patriotism During World War II." *Quarterly Journal of Economics* 138(1): 465-513. https://doi.org/10.1093/qje/qjac028
+
+Caselli, Francesco, Massimo Morelli, and Dominic Rohner. 2015. "The Geography of Interstate Resource Wars." *Quarterly Journal of Economics* 130 (1): 267–315. https://doi.org/10.1093/qje/qju038
+
 Cassar, Alessandra, Pauline Grosjean, and Sam Whitt. 2013. "Legacies of Violence: Trust and Market Development." *Journal of Economic Growth* 18 (3):285-318. https://doi.org/10.1007/s10887-013-9091-3
 
 Cervellati, Matteo, Uwe Sunde, and Simona Valmori. 2016. "Pathogens, Weather Shocks, and Civil Conflicts." *Economic Journal* 127 (607):2581-2616. https://doi.org/10.1111/ecoj.12430
@@ -848,17 +784,29 @@ Cervellati, Matteo, Uwe Sunde, and Simona Valmori. 2016. "Pathogens, Weather Sho
 
 Chassang, Sylvain, and Gerard Padró i Miquel. 2009. "Economic Shocks and Civil War." *Quarterly Journal of Political Science* 4 (3): 211–228. https://doi.org/10.1561/100.00008072
 
+Chiovelli, Giorgio, Stelios Michalopoulos, and Elias Papaioannou. 2025. "Landmines and Spatial Development." *Econometrica* 93 (5): 1739–1778. https://doi.org/10.3982/ecta17951
+
 Collier, Paul, and Anke Hoeffler. 1998. "On Economic Causes of Civil War." *Oxford Economic Papers* 50 (4):563-573. https://doi.org/10.1093/oep/50.4.563
 
 Condra, Luke N., James D. Long, Andrew C. Shaver, and Austin L. Wright. 2018. "The Logic of Insurgent Electoral Violence." *American Economic Review* 108 (11): 3199–3231. https://doi.org/10.1257/aer.20170416
 
+Couttenier, Mathieu, Veronica Petrencu, Dominic Rohner, and Mathias Thoenig. 2019. "The Violent Legacy of Conflict: Evidence on Asylum Seekers, Crime, and Public Policy in Switzerland." *American Economic Review* 109 (12): 4378–4425. https://doi.org/10.1257/aer.20170263
+
 Crost, Benjamin, Joseph Felter, and Patrick Johnston. 2014. "Aid under Fire: Development Projects and Civil Conflict." *American Economic Review* 104 (6):1833-56. https://doi.org/10.1257/aer.104.6.1833
+
+Davis, Donald R., and David E. Weinstein. 2002. "Bones, Bombs, and Break Points: The Geography of Economic Activity." *American Economic Review* 92 (5): 1269–1289. https://doi.org/10.1257/000282802762024502
+
+*Dell, Melissa, and Pablo Querubin. 2018. "Nation Building through Foreign Intervention: Evidence from Discontinuities in Military Strategies." *Quarterly Journal of Economics* 133 (2):701-764. https://doi.org/10.1093/qje/qjx037
 
 Dell, Melissa. 2015. "Trafficking Networks and the Mexican Drug War." *American Economic Review* 105 (6):1738-79. https://doi.org/10.1257/aer.20121637
 
 Depetris-Chauvin, Emilio. 2016. "State History and Contemporary Conflict: Evidence from Sub-Saharan Africa." Instituto de Economía Working Paper No. 475, Pontificia Universidad Católica de Chile. https://doi.org/10.2139/ssrn.2679594
 
 Dube, Arindrajit, Ethan Kaplan, and Suresh Naidu. 2011. "Coups, Corporations, and Classified Information." *Quarterly Journal of Economics* 126 (3): 1375–1409. https://doi.org/10.1093/qje/qjr030
+
+Dube, Oeindrila, and Juan F. Vargas. 2013. "Commodity Price Shocks and Civil Conflict: Evidence from Colombia." *Review of Economic Studies* 80 (4): 1384–1421. https://doi.org/10.1093/restud/rdt009
+
+Dube, Oeindrila, and S. P. Harish. 2020. "Queens." *Journal of Political Economy* 128 (7): 2579–2652. https://doi.org/10.1086/707011
 
 Durante, Ruben, and Ekaterina Zhuravskaya. 2018. "Attack When the World Is Not Watching? Us News and the Israeli-Palestinian Conflict." *Journal of Political Economy* 126 (3): 1085-1133. https://doi.org/10.1086/697202
 
@@ -874,11 +822,25 @@ Federle, Jonathan, André Meier, Gernot J. Müller, Willi Mutschler, and Moritz 
 
 Fenske, James, and Namrata Kala. 2017. "1807: Economic Shocks, Conflict and the Slave Trade." *Journal of Development Economics* 126:66-76. https://doi.org/10.1016/j.jdeveco.2016.12.004
 
+Fetzer, Thiemo, Pedro C. L. Souza, Oliver Vanden Eynde, and Austin L. Wright. 2021. "Security Transitions." *American Economic Review* 111 (7): 2275–2308. https://doi.org/10.1257/aer.20200412
+
+Fitzsimmons, Patrick. 2026. "Blood and Iron: Political Fragmentation in the Ancient Eastern Mediterranean." *Economic Journal*, advance online publication. https://doi.org/10.1093/ej/ueag100
+
+Gennaioli, Nicola, and Hans-Joachim Voth. 2015. "State Capacity and Military Conflict." *Review of Economic Studies* 82 (4):1409-1448. https://doi.org/10.1093/restud/rdv019
+
 Glaeser, Edward L.. 2005. "The Political Economy of Hatred." *Quarterly Journal of Economics* 120 (1): 45–86. https://doi.org/10.1162/qjec.2005.120.1.45
+
+Goldin, Claudia D. 1991. "The Role of World War II in the Rise of Women's Employment." *American Economic Review* 81 (4): 741–756.
+
+Gross, Daniel P., and Bhaven N. Sampat. 2023. "America, Jump-Started: World War II R&D and the Takeoff of the US Innovation System." *American Economic Review* 113 (12): 3323–3356. https://doi.org/10.1257/aer.20221365
 
 Guarnieri, Eleonora, and Ana Tur-Prats. 2023. "Cultural Distance and Conflict-Related Sexual Violence." *Quarterly Journal of Economics* 138 (3): 1817–1861. https://doi.org/10.1093/qje/qjad015
 
+Guidolin, Massimo, and Eliana La Ferrara. 2007. "Diamonds Are Forever, Wars Are Not: Is Conflict Bad for Private Firms?" *American Economic Review* 97 (5): 1978–1993. https://doi.org/10.1257/aer.97.5.1978
+
 Guriev, Sergei, and Nikita Melnikov. 2016. "War, Inflation, and Social Capital." *American Economic Review*, 106 (5): 230-35. https://doi.org/10.1257/aer.p20161067
+
+Halbmeier, Christoph, and Carsten Schröder. 2025. "The Long-Term Implications of Destruction during the Second World War on Private Wealth in Germany." *Journal of Economic Growth* 30 (1): 161–235. https://doi.org/10.1007/s10887-024-09242-2
 
 Heldring, Leander. 2021. "The Origins of Violence in Rwanda." *Review of Economic Studies* 88 (2): 730–763. https://doi.org/10.1093/restud/rdaa028
 
@@ -888,29 +850,45 @@ Hodler, Roland, Paul Schaudt, and Alberto Vesperoni. 2026. "Mining for Peace." *
 
 Hsiang, Solomon M., Marshall Burke, and Edward Miguel. 2013. "Quantifying the Influence of Climate on Human Conflict." *Science* 341 (6151): 1235367. https://doi.org/10.1126/science.1235367
 
+Jackson, Matthew O, and Massimo Morelli. 2007. "Political Bias and War." *American Economic Review* 97 (4): 1353–1373. https://doi.org/10.1257/aer.97.4.1353
+
 Jedwab, Remi, Noel D. Johnson, and Mark Koyama. 2019. "Negative Shocks and Mass Persecutions: Evidence from the Black Death." *Journal of Economic Growth* 24 (4):345-395. https://doi.org/10.1007/s10887-019-09167-1
+
+Jha, Saumitra, and Moses Shayo. 2019. "Valuing Peace: The Effects of Financial Market Exposure on Votes and Political Attitudes." *Econometrica* 87 (5): 1561–1588. https://doi.org/10.3982/ecta16385
 
 Jia, Ruixue. 2014. "Weather Shocks, Sweet Potatoes and Peasant Revolts in Historical China." *The Economic Journal* 124 (575):92-118. https://doi.org/10.1111/ecoj.12037
 
+Juhász, Réka. 2018. "Temporary Protection and Technology Adoption: Evidence from the Napoleonic Blockade." *American Economic Review* 108 (11): 3339–3376. https://doi.org/10.1257/aer.20151730
+
+König, Michael D., Dominic Rohner, Mathias Thoenig, and Fabrizio Zilibotti. 2017. "Networks in Conflict: Theory and Evidence from the Great War of Africa." *Econometrica* 85 (4): 1093–1132. https://doi.org/10.3982/ecta13117
+
+Kung, James Kai-sing, and Chicheng Ma. 2014. "Can Cultural Norms Reduce Conflicts? Confucianism and Peasant Rebellions in Qing China." *Journal of Development Economics* 111:132-149. https://doi.org/10.1016/j.jdeveco.2014.08.006
+
 Levitt, Steven D., and Sudhir Alladi Venkatesh. 2000. "An Economic Analysis of a Drug-Selling Gang's Finances." *Quarterly Journal of Economics* 115 (3): 755–789. https://doi.org/10.1162/003355300554908
+
+Link, Andreas. 2026. "The Fall of Constantinople and the Rise of the West." *Journal of the European Economic Association*, advance online publication. https://doi.org/10.1093/jeea/jvag056
 
 Lonsky, Jakub. 2025. "Gulags, Crime, and Elite Violence: Origins and Consequences of the Russian Mafia." *Journal of Public Economics* 246: 105361. https://doi.org/10.1016/j.jpubeco.2025.105361
 
 Lowes, Sara, and Eduardo Montero. 2021. "Concessions, Violence, and Indirect Rule: Evidence from the Congo Free State." *Quarterly Journal of Economics* 136 (4): 2047–2091. https://doi.org/10.1093/qje/qjab021
 
+Martin, Philippe, Thierry Mayer, and Mathias Thoenig. 2008. "Make Trade Not War?" *Review of Economic Studies* 75 (3): 865–900. https://doi.org/10.1111/j.1467-937x.2008.00492.x
+
 McGuirk, Eoin and Marshall Burke. 2020. "The Economic Origins of Conflict in Africa." *Journal of Political Economy*, 128(10), 3940-97. https://doi.org/10.1086/709993
 
 McGuirk, Eoin F, and Nathan Nunn. 2025. "Transhumant Pastoralism, Climate Change, and Conflict in Africa." *Review of Economic Studies* 92 (1): 404–441. https://doi.org/10.1093/restud/rdae027
+
+Miguel, Edward, and Gérard Roland. 2011. "The Long-Run Impact of Bombing Vietnam." *Journal of Development Economics* 96 (1): 1–15. https://doi.org/10.1016/j.jdeveco.2010.07.004
+
+*Miguel, Edward, Shanker Satyanath, and Ernest Sergenti. 2004. "Economic Shocks and Civil Conflict: An Instrumental Variables Approach." *Journal of Political Economy* 112 (4):725-753. https://doi.org/10.1086/421174
+
+Miguel, Edward. 2005. “Poverty and Witch Killing”. *Review of Economic Studies* 72 (4): 1153-1172. https://doi.org/10.1111/0034-6527.00365
 
 Mirenda, Litterio, Sauro Mocetti, and Lucia Rizzica. 2022. "The Economic Effects of Mafia: Firm Level Evidence." *American Economic Review* 112 (8): 2748–2773. https://doi.org/10.1257/aer.20201015
 
 Montalvo, José G, and Marta Reynal-Querol. 2005. "Ethnic Polarization, Potential Conflict, and Civil Wars." *American Economic Review* 95 (3):796-816. https://doi.org/10.1257/0002828054201468
 
 Moscona, Jacob; Nathan Nunn and James A Robinson. 2020. "Segmentary Lineage Organization and Conflict in Sub‐Saharan Africa." *Econometrica*, 88(5), 1999-2036. https://doi.org/10.3982/ecta16327
-
-*Miguel, Edward, Shanker Satyanath, and Ernest Sergenti. 2004. "Economic Shocks and Civil Conflict: An Instrumental Variables Approach." *Journal of Political Economy* 112 (4):725-753. https://doi.org/10.1086/421174
-
-Miguel, Edward. 2005. “Poverty and Witch Killing”. *Review of Economic Studies* 72 (4): 1153-1172. https://doi.org/10.1111/0034-6527.00365
 
 *Nunn, Nathan, and Nancy Qian. 2014. "US Food Aid and Civil Conflict." *American Economic Review* 104 (6):1630-66. https://doi.org/10.1257/aer.104.6.1630
 
@@ -926,6 +904,8 @@ Roessler, Philip. 2016. *Ethnic Politics and State Power in Africa: The Logic of
 
 *Rohner, Dominic, Mathias Thoenig, and Fabrizio Zilibotti. 2013. "Seeds of Distrust: Conflict in Uganda." *Journal of Economic Growth* 18 (3):217-252. https://doi.org/10.1007/s10887-013-9093-1
 
+Rohner, Dominic, Mathias Thoenig, and Fabrizio Zilibotti. 2013. "War Signals: A Theory of Trade, Trust, and Conflict." *Review of Economic Studies* 80 (3): 1114–1147. https://doi.org/10.1093/restud/rdt003
+
 Shayo, Moses, and Asaf Zussman. 2017. "Conflict and the Persistence of Ethnic Bias." *American Economic Journal: Applied Economics* 9 (4): 137-65. https://doi.org/10.1257/app.20160220
 
 Sunde, Uwe, and Matteo Cervellati. 2013. "Democratizing for Peace? The Effect of Democratization on Civil Conflicts." *Oxford Economic Papers* 66 (3):774-797. https://doi.org/10.1093/oep/gpt031
@@ -934,115 +914,15 @@ Sviatschi, Maria Micaela. 2022. "Making a NARCO: Childhood Exposure to Illegal L
 
 Sviatschi, Maria Micaela. 2022. "Spreading Gangs: Exporting US Criminal Capital to El Salvador." *American Economic Review* 112 (6): 1985–2024. https://doi.org/10.1257/aer.20201540
 
-Voigtländer, Nico, and Hans-Joachim Voth. 2013. "Gifts of Mars: Warfare and Europe’s Early Rise to Riches." *Journal of Economic Perspectives* 27 (4): 165–186. https://doi.org/10.1257/jep.27.4.165
-
-*Yanagizawa-Drott, David. 2014. "Propaganda and Conflict: Evidence from the Rwandan Genocide." *Quarterly Journal of Economics* 129 (4):1947-1994. https://doi.org/10.1093/qje/qju020
-
-Wang, Yuhua. 2021. The Political Legacy of Violence During China's Cultural Revolution. *British Journal of Political Science*, 51(2), 463-487. https://doi.org/10.1017/s0007123419000255
-
-Kung, James Kai-sing, and Chicheng Ma. 2014. "Can Cultural Norms Reduce Conflicts? Confucianism and Peasant Rebellions in Qing China." *Journal of Development Economics* 111:132-149. https://doi.org/10.1016/j.jdeveco.2014.08.006
-
-## War
-
-Abadie, Alberto, and Javier Gardeazabal. 2003. "The Economic Costs of Conflict: A Case Study of the Basque Country." *American Economic Review* 93 (1):113-132. https://doi.org/10.1257/000282803321455188
-
-Acemoglu, Daron, and Alexander Wolitzky. 2014. "Cycles of Conflict: An Economic Model." *American Economic Review* 104 (4): 1350–1367. https://doi.org/10.1257/aer.104.4.1350
-
-Acemoglu, Daron, Giuseppe De Feo, Giacomo De Luca, and Gianluca Russo. 2022. "War, Socialism, and the Rise of Fascism: An Empirical Exploration." *Quarterly Journal of Economics* 137 (2): 1233–1296. https://doi.org/10.1093/qje/qjac001
-
-Acemoglu, Daron, David H. Autor, and David Lyle. 2004. "Women, War, and Wages: The Effect of Female Labor Supply on the Wage Structure at Midcentury." *Journal of Political Economy* 112 (3): 497–551. https://doi.org/10.1086/383100
-
-Acemoglu, Daron, Tarek A. Hassan, and James A. Robinson. 2011. "Social Structure and Development: A Legacy of the Holocaust in Russia." *Quarterly Journal of Economics* 126 (2): 895–946. https://doi.org/10.1093/qje/qjr018
-
-Ager, Philipp, Leonardo Bursztyn, Lukas Leucht, and Hans-Joachim Voth. 2022. "Killer Incentives: Rivalry, Performance and Risk-Taking among German Fighter Pilots, 1939–45." *Review of Economic Studies* 89 (5): 2257–2292. https://doi.org/10.1093/restud/rdab085
-
-Alesina, Alberto, and Enrico Spolaore. 2005. "War, Peace, and the Size of Countries." *Journal of Public Economics* 89 (7):1333-1354. https://doi.org/10.1016/j.jpubeco.2003.07.013
-
-Alesina, Alberto, Bryony Reich, and Alessandro Riboni. 2020. "Nation-Building, Nationalism, and Wars." *Journal of Economic Growth* 25 (4): 381-430. https://doi.org/10.1007/s10887-020-09182-7
-
-Armand, Alex, Paul Atwell, and Joseph F. Gomes. 2020. "The Reach of Radio: Ending Civil Conflict through Rebel Demobilization." *American Economic Review* 110 (5): 1395–1429. https://doi.org/10.1257/aer.20181135
-
-Bai, Ying, Ruixue Jia, and Jiaojiao Yang. 2023. "Web of Power: How Elite Networks Shaped War and Politics in China." *Quarterly Journal of Economics* 138(2): 1067–1108. https://doi.org/10.1093/qje/qjac041
-
-Bauer, Michal, Christopher Blattman, Julie Chytilová, Joseph Henrich, Edward Miguel, and Tamar Mitts. 2016. "Can War Foster Cooperation?" *Journal of Economic Perspectives* 30 (3): 249–274. https://doi.org/10.1257/jep.30.3.249
-
-Berger, Daniel, William Easterly, Nathan Nunn, and Shanker Satyanath. 2013. "Commercial Imperialism? Political Influence and Trade During the Cold War." *American Economic Review* 103 (2):863-96. https://doi.org/10.1257/aer.103.2.863
-
-*Berman, Eli, Jacob N. Shapiro, and Joseph H. Felter. 2011. "Can Hearts and Minds Be Bought? The Economics of Counterinsurgency in Iraq." *Journal of Political Economy* 119 (4):766-819. https://doi.org/10.1086/661983
-
-*Besley, Timothy, and Torsten Persson. 2009. "The Origins of State Capacity: Property Rights, Taxation, and Politics." *American Economic Review* 99 (4):1218-1244. https://doi.org/10.1257/aer.99.4.1218
-
-*Blattman, Christopher, and Edward Miguel. 2010. "Civil War." *Journal of Economic Literature* 48 (1):3-57. https://doi.org/10.1257/jel.48.1.3
-
-Blattman, Christopher. 2022. *Why We Fight: The Roots of War and the Paths to Peace*. New York: Viking.
-
-Cagé, Julia, Anna Dagorret, Pauline Grosjean, and Saumitra Jha. 2023. "Heroes and Villains: The Effects of Heroism on Autocratic Values and Nazi Collaboration in France." *American Economic Review* 113 (7): 1888-1932. https://doi.org/10.1257/aer.20211509
-
-Caprettini, Bruno, and Hans-Joachim Voth. 2023. "New Deal, New Patriots: How 1930s Government Spending Boosted Patriotism During World War II." *Quarterly Journal of Economics* 138(1): 465-513. https://doi.org/10.1093/qje/qjac028
-
-Caselli, Francesco, Massimo Morelli, and Dominic Rohner. 2015. "The Geography of Interstate Resource Wars." *Quarterly Journal of Economics* 130 (1): 267–315. https://doi.org/10.1093/qje/qju038
-
-Chassang, Sylvain, and Gerard Padró i Miquel. 2009. "Economic Shocks and Civil War." *Quarterly Journal of Political Science* 4 (3): 211–228. https://doi.org/10.1561/100.00008072
-
-Chiovelli, Giorgio, Stelios Michalopoulos, and Elias Papaioannou. 2025. "Landmines and Spatial Development." *Econometrica* 93 (5): 1739–1778. https://doi.org/10.3982/ecta17951
-
-Collier, Paul, and Anke Hoeffler. 1998. "On Economic Causes of Civil War." *Oxford Economic Papers* 50 (4):563-573. https://doi.org/10.1093/oep/50.4.563
-
-Couttenier, Mathieu, Veronica Petrencu, Dominic Rohner, and Mathias Thoenig. 2019. "The Violent Legacy of Conflict: Evidence on Asylum Seekers, Crime, and Public Policy in Switzerland." *American Economic Review* 109 (12): 4378–4425. https://doi.org/10.1257/aer.20170263
-
-Davis, Donald R., and David E. Weinstein. 2002. "Bones, Bombs, and Break Points: The Geography of Economic Activity." *American Economic Review* 92 (5): 1269–1289. https://doi.org/10.1257/000282802762024502
-
-*Dell, Melissa, and Pablo Querubin. 2018. "Nation Building through Foreign Intervention: Evidence from Discontinuities in Military Strategies." *Quarterly Journal of Economics* 133 (2):701-764. https://doi.org/10.1093/qje/qjx037
-
-Dube, Oeindrila, and Juan F. Vargas. 2013. "Commodity Price Shocks and Civil Conflict: Evidence from Colombia." *Review of Economic Studies* 80 (4): 1384–1421. https://doi.org/10.1093/restud/rdt009
-
-Dube, Oeindrila, and S. P. Harish. 2020. "Queens." *Journal of Political Economy* 128 (7): 2579–2652. https://doi.org/10.1086/707011
-
-Esteban, Joan, Massimo Morelli, and Dominic Rohner. 2015. "Strategic Mass Killings." *Journal of Political Economy* 123 (5): 1087–1132. https://doi.org/10.1086/682584
-
-Federle, Jonathan, André Meier, Gernot J. Müller, Willi Mutschler, and Moritz Schularick. 2026. "The Price of War." *American Economic Review* 116 (3): 791–827. https://doi.org/10.1257/aer.20241355
-
-Fetzer, Thiemo, Pedro C. L. Souza, Oliver Vanden Eynde, and Austin L. Wright. 2021. "Security Transitions." *American Economic Review* 111 (7): 2275–2308. https://doi.org/10.1257/aer.20200412
-
-Fitzsimmons, Patrick. 2026. "Blood and Iron: Political Fragmentation in the Ancient Eastern Mediterranean." *Economic Journal*, advance online publication. https://doi.org/10.1093/ej/ueag100
-
-Gennaioli, Nicola, and Hans-Joachim Voth. 2015. "State Capacity and Military Conflict." *Review of Economic Studies* 82 (4):1409-1448. https://doi.org/10.1093/restud/rdv019
-
-Goldin, Claudia D. 1991. "The Role of World War II in the Rise of Women's Employment." *American Economic Review* 81 (4): 741–756.
-
-Gross, Daniel P., and Bhaven N. Sampat. 2023. "America, Jump-Started: World War II R&D and the Takeoff of the US Innovation System." *American Economic Review* 113 (12): 3323–3356. https://doi.org/10.1257/aer.20221365
-
-Guarnieri, Eleonora, and Ana Tur-Prats. 2023. "Cultural Distance and Conflict-Related Sexual Violence." *Quarterly Journal of Economics* 138 (3): 1817–1861. https://doi.org/10.1093/qje/qjad015
-
-Guidolin, Massimo, and Eliana La Ferrara. 2007. "Diamonds Are Forever, Wars Are Not: Is Conflict Bad for Private Firms?" *American Economic Review* 97 (5): 1978–1993. https://doi.org/10.1257/aer.97.5.1978
-
-Guriev, Sergei, and Nikita Melnikov. 2016. "War, Inflation, and Social Capital." *American Economic Review*, 106 (5): 230-35. https://doi.org/10.1257/aer.p20161067
-
-Halbmeier, Christoph, and Carsten Schröder. 2025. "The Long-Term Implications of Destruction during the Second World War on Private Wealth in Germany." *Journal of Economic Growth* 30 (1): 161–235. https://doi.org/10.1007/s10887-024-09242-2
-
-Jackson, Matthew O, and Massimo Morelli. 2007. "Political Bias and War." *American Economic Review* 97 (4): 1353–1373. https://doi.org/10.1257/aer.97.4.1353
-
-Jha, Saumitra, and Moses Shayo. 2019. "Valuing Peace: The Effects of Financial Market Exposure on Votes and Political Attitudes." *Econometrica* 87 (5): 1561–1588. https://doi.org/10.3982/ecta16385
-
-Juhász, Réka. 2018. "Temporary Protection and Technology Adoption: Evidence from the Napoleonic Blockade." *American Economic Review* 108 (11): 3339–3376. https://doi.org/10.1257/aer.20151730
-
-König, Michael D., Dominic Rohner, Mathias Thoenig, and Fabrizio Zilibotti. 2017. "Networks in Conflict: Theory and Evidence from the Great War of Africa." *Econometrica* 85 (4): 1093–1132. https://doi.org/10.3982/ecta13117
-
-Link, Andreas. 2026. "The Fall of Constantinople and the Rise of the West." *Journal of the European Economic Association*, advance online publication. https://doi.org/10.1093/jeea/jvag056
-
-Martin, Philippe, Thierry Mayer, and Mathias Thoenig. 2008. "Make Trade Not War?" *Review of Economic Studies* 75 (3): 865–900. https://doi.org/10.1111/j.1467-937x.2008.00492.x
-
-*Miguel, Edward, Shanker Satyanath, and Ernest Sergenti. 2004. "Economic Shocks and Civil Conflict: An Instrumental Variables Approach." *Journal of Political Economy* 112 (4):725-753. https://doi.org/10.1086/421174
-
-Miguel, Edward, and Gérard Roland. 2011. "The Long-Run Impact of Bombing Vietnam." *Journal of Development Economics* 96 (1): 1–15. https://doi.org/10.1016/j.jdeveco.2010.07.004
-
-Rohner, Dominic, Mathias Thoenig, and Fabrizio Zilibotti. 2013. "War Signals: A Theory of Trade, Trust, and Conflict." *Review of Economic Studies* 80 (3): 1114–1147. https://doi.org/10.1093/restud/rdt003
-
 Takeda, Kohei, and Atsushi Yamagishi. 2026. "The Economic Dynamics of City Structure: Evidence from Hiroshima's Recovery." *Journal of Political Economy*, advance online publication. https://doi.org/10.1086/743334
 
 Voigtländer, Nico, and Hans-Joachim Voth. 2013. "Gifts of Mars: Warfare and Europe’s Early Rise to Riches." *Journal of Economic Perspectives* 27 (4): 165–186. https://doi.org/10.1257/jep.27.4.165
 
 Voigtländer, Nico, and Hans-Joachim Voth. 2013. "The Three Horsemen of Riches: Plague, War, and Urbanization in Early Modern Europe." *Review of Economic Studies* 80 (2): 774–811. https://doi.org/10.1093/restud/rds034
+
+Wang, Yuhua. 2021. The Political Legacy of Violence During China's Cultural Revolution. *British Journal of Political Science*, 51(2), 463-487. https://doi.org/10.1017/s0007123419000255
+
+*Yanagizawa-Drott, David. 2014. "Propaganda and Conflict: Evidence from the Rwandan Genocide." *Quarterly Journal of Economics* 129 (4):1947-1994. https://doi.org/10.1093/qje/qju020
 
 ## Historical Roots of Development
 
@@ -1224,6 +1104,96 @@ Tabellini, Marco. 2020. "Gifts of the Immigrants, Woes of the Natives: Lessons f
 
 Zhang, L., Xie, L., & Zheng, X. 2023. Across a few prohibitive miles: The impact of the Anti-Poverty Relocation Program in China. *Journal of Development Economics*, 160, 102945. https://doi.org/10.1016/j.jdeveco.2022.102945
 
+## Health, Diseases, Resources, Environment
+
+Acemoglu, Daron, and Simon Johnson. 2007. "Disease and Development: The Effect of Life Expectancy on Economic Growth." *Journal of Political Economy* 115(6): 925-985. https://doi.org/10.1086/529000
+
+Adda, Jérôme. 2016. "Economic Activity and the Spread of Viral Diseases: Evidence from High Frequency Data." *Quarterly Journal of Economics* 131 (2):891-941. https://doi.org/10.1093/qje/qjw005
+
+Almond, Douglas. 2006. “Is the 1918 Influenza Pandemic Over? Long‐Term Effects of In Utero Influenza Exposure in the Post‐1940 U.S. Population.” *Journal of Political Economy*, 114(4), 672– 712. https://doi.org/10.1086/507154
+
+Alsan, Marcella. 2015. "The Effect of the Tsetse Fly on African Development." *American Economic Review* 105 (1):382-410. https://doi.org/10.1257/aer.20130604
+
+Besley, Timothy, and Torsten Persson. 2023. "The Political Economics of Green Transitions." *Quarterly Journal of Economics* 138 (3): 1863–1906. https://doi.org/10.1093/qje/qjad006
+
+Bloom, David E., David Canning, and Günther Fink. 2014. "Disease and Development Revisited." *Journal of Political Economy* 122 (6):1355-1366. https://doi.org/10.1086/677189
+
+Buonanno, Paolo, Ruben Durante, Giovanni Prarolo, and Paolo Vanin. 2015. "Poor Institutions, Rich Mines: Resource Curse in the Origins of the Sicilian Mafia." *Economic Journal* 125 (586):F175-F202. https://doi.org/10.1111/ecoj.12236
+
+Burgess, Robin, Matthew Hansen, Benjamin A. Olken, Peter Potapov, and Stefanie Sieber. 2012. "The Political Economy of Deforestation in the Tropics." *Quarterly Journal of Economics* 127 (4): 1707–1754. https://doi.org/10.1093/qje/qjs034
+
+Cabrales, Antonio, and Esther Hauk. 2011. "The Quality of Political Institutions and the Curse of Natural Resources." *Economic Journal* 121 (551):58-88. https://doi.org/10.1111/j.1468-0297.2010.02390.x
+
+Das, Jishnu, Alaka Holla, Aakash Mohpal, and Karthik Muralidharan. 2016. "Quality and Accountability in Health Care Delivery: Audit-Study Evidence from Primary Care in India." *American Economic Review* 106 (12): 3765–3799. https://doi.org/10.1257/aer.20151138
+
+Duhon, Madeline, Edward Miguel, Amos Njuguna, Daniela Pinto Veizaga, and Michael Walker. 2026. "Preparing for an Aging Africa: Data-Driven Priorities for Economic Research and Policy." *Journal of Political Economy Microeconomics* 4 (3): 797–847. https://doi.org/10.1086/737243
+
+Dupas, Pascaline, and Edward Miguel. 2017. "Impacts and Determinants of Health Levels in Low-Income Countries." In *Handbook of Economic Field Experiments*, Vol. 2, edited by Abhijit V. Banerjee and Esther Duflo, 3–93. Amsterdam: North-Holland. https://doi.org/10.1016/bs.hefe.2016.09.003
+
+Gallup, John Luke, and Jeffrey D Sachs. 2001. "The Economic Burden of Malaria." *American Journal of Tropical Medicine and Hygiene* 64 (1_suppl):85-96. https://doi.org/10.4269/ajtmh.2001.64.85
+
+Canning, David. 2006. “The Economics of HIV/AIDS in Low-Income Countries: The Case for Prevention.” *Journal of Economic Perspectives* 20 (3): 121–142. https://doi.org/10.1257/jep.20.3.121
+
+Caselli, Francesco, and Andrea Tesei. 2015. "Resource Windfalls, Political Regimes, and Political Stability." *Review of Economics and Statistics* 98 (3):573-590. https://doi.org/10.1162/rest_a_00538
+
+Cutler, David, Angus Deaton, and Adriana Lleras-Muney. 2006. “The Determinants of Mortality.” *Journal of Economic Perspectives* 20 (3): 97–120. https://doi.org/10.1257/jep.20.3.97
+
+Dalgaard, C. J., and Strulik, H. 2016. Physiology and development: Why the West is taller than the rest. *Economic Journal*, 126(598), 2292-2323. https://doi.org/10.1111/ecoj.12275
+
+*Deaton, Angus. 2003. "Health, Inequality, and Economic Development." *Journal of Economic Literature* 41 (1):113-158. https://doi.org/10.1257/jel.41.1.113
+
+Deaton, Angus. 2013. *The Great Escape: Health, Wealth, and the Origins of Inequality*: Princeton University Press. https://doi.org/10.1515/9780691259253
+
+Diamond, Jared M. 1998. *Guns, Germs and Steel: A Short History of Everybody for the Last 13,000 Years*: Random House.
+
+Fenske, James, and Igor Zurimendi. 2017. "Oil and Ethnic Inequality in Nigeria." *Journal of Economic Growth* 22 (4):397-420. https://doi.org/10.1007/s10887-017-9149-8
+
+Flückiger, Matthias; Markus Ludwig and Ali Sina Önder. 2019. "Ebola and State Legitimacy."*Economic Journal*, 129(621), 2064-89. https://doi.org/10.1111/ecoj.12638
+
+Hamory, Joan, Edward Miguel, Michael Walker, Michael Kremer, and Sarah Baird. 2021. "Twenty-Year Economic Impacts of Deworming." *Proceedings of the National Academy of Sciences* 118 (14): e2023185118. https://doi.org/10.1073/pnas.2023185118
+
+Hodler, Roland, Paul Schaudt, and Alberto Vesperoni. 2026. "Mining for Peace." *Journal of the European Economic Association*, advance online publication. https://doi.org/10.1093/jeea/jvag031
+
+Hsiang, Solomon M., Marshall Burke, and Edward Miguel. 2013. "Quantifying the Influence of Climate on Human Conflict." *Science* 341 (6151): 1235367. https://doi.org/10.1126/science.1235367
+
+Karing, Anne. 2024. "Social Signaling and Childhood Immunization: A Field Experiment in Sierra Leone." *Quarterly Journal of Economics* 139 (4): 2083–2133. https://doi.org/10.1093/qje/qjae025
+
+Lipscomb, Molly, and Ahmed Mushfiq Mobarak. 2017. "Decentralization and Pollution Spillovers: Evidence from the Re-drawing of County Borders in Brazil." *Review of Economic Studies* 84 (1): 464–502. https://doi.org/10.1093/restud/rdw023
+
+Lowes, Sara, and Eduardo Montero. 2021. "The Legacy of Colonial Medicine in Central Africa." *American Economic Review* 111 (4): 1284–1314. https://doi.org/10.1257/aer.20180284
+
+McGuirk, Eoin F, and Nathan Nunn. 2025. "Transhumant Pastoralism, Climate Change, and Conflict in Africa." *Review of Economic Studies* 92 (1): 404–441. https://doi.org/10.1093/restud/rdae027
+
+Nunn, Nathan, and Diego Puga. 2012. "Ruggedness: The Blessing of Bad Geography in Africa." *Review of Economics and Statistics* 94 (1):20-36. https://doi.org/10.1162/rest_a_00161
+
+Okeke, Edward N. 2023. "When a Doctor Falls from the Sky: The Impact of Easing Doctor Supply Constraints on Mortality." *American Economic Review* 113 (3): 585–627. https://doi.org/10.1257/aer.20210701
+
+Oliva, Paulina. 2015. "Environmental Regulations and Corruption: Automobile Emissions in Mexico City." *Journal of Political Economy* 123 (3): 686–724. https://doi.org/10.1086/680936
+
+Pelzl, Paul, Steven Poelhekke. 2021. Good mine, bad mine: Natural resource heterogeneity and Dutch disease in Indonesia. *Journal of International Economics* 131, 103457. https://doi.org/10.1016/j.jinteco.2021.103457
+
+Sachs, Jeffrey D. and Andrew M. Warner. 1999. "The Big Push, Natural Resource Booms and Growth" *Journal of Development Economics* 59(1): 43-76. https://doi.org/10.1016/s0304-3878(99)00005-x
+
+Sachs, Jeffrey D, and Andrew M Warner. 2001. "The Curse of Natural Resources." *European Economic Review* 45 (4):827-838. https://doi.org/10.1016/s0014-2921(01)00125-8
+
+Taylor, M. Scott. 2011. "Buffalo Hunt: International Trade and the Virtual Extinction of the North American Bison." *American Economic Review* 101 (7): 3162–3195. https://doi.org/10.1257/aer.101.7.3162
+
+*Van der Ploeg, Frederick. 2011. "Natural Resources: Curse or Blessing?" *Journal of Economic Literature* 49 (2):366-420. https://doi.org/10.1257/jel.49.2.366
+
+*Venables, Anthony J. 2016. “Using Natural Resources for Development: Why Has It Proven So Difficult?” *Journal of Economic Perspectives* 30 (1): 161–184. https://doi.org/10.1257/jep.30.1.161
+
+Waldinger, Maria. 2022. The Economic Effects of Long-Term Climate Change: Evidence from the Little Ice Age. *Journal of Political Economy* 130(9): 2275-2314 https://doi.org/10.1086/720393
+
+Young, Alwyn. 2005. "The Gift of the Dying: The Tragedy of Aids and the Welfare of Future African Generations." *Quarterly Journal of Economics* 120 (2):423-466. https://doi.org/10.1162/0033553053970223
+
+Chen, Yuyu, Avraham Ebenstein, Michael Greenstone, and Hongbin Li. 2013. "Evidence on the impact of sustained exposure to air pollution on life expectancy from China’s Huai River Policy." *Proceedings of the National Academy of Sciences* 110 (32): 12936-12941. https://doi.org/10.1073/pnas.1300018110
+
+Chen, Yuyu, and Li-An Zhou. 2007. "The Long-Term Health and Economic Consequences of the 1959–1961 Famine in China." *Journal of Health Economics* 26 (4):659-681. https://doi.org/10.1016/j.jhealeco.2006.12.006
+
+Hong, Ji Yeon. 2018. "How Natural Resources Affect Authoritarian Leaders’ Provision of Public Services: Evidence from China." *Journal of Politics* 80 (1):178-194. https://doi.org/10.1086/694199
+
+He, Guojun, Yang Xie, and Bing Zhang. 2020. "Expressways, GDP, and the Environment: The Case of China." *Journal of Development Economics* 145: 102485. https://doi.org/10.1016/j.jdeveco.2020.102485
+
 ## Demographic Issues: Mortality, Fertility, and Marriage Market
 
 Aizer, Anna. 2010. "The Gender Wage Gap and Domestic Violence." *American Economic Review* 100 (4): 1847–1859. https://doi.org/10.1257/aer.100.4.1847
@@ -1369,18 +1339,6 @@ Fan, Yi, Junjian Yi, and Junsen Zhang. 2021. “Rising Intergenerational Income 
 Piketty, Thomas, Li Yang, and Gabriel Zucman. 2019. "Capital accumulation, private property, and rising inequality in China, 1978–2015." *American Economic Review* 109 (7): 2469-96. https://doi.org/10.1257/aer.20170973
 
 Shen, Yan, and Yang Yao. 2008. "Does Grassroots Democracy Reduce Income Inequality in China?" *Journal of Public Economics* 92 (10-11):2182-2198. https://doi.org/10.1016/j.jpubeco.2008.04.002
-
-## Trade and Globalization
-
-Kaboski, Joseph P., Will Jianyu Lu, Wei Qian, and Lixia Ren. 2026. "Melitz Meets Lewis: The Impacts of Roads on Structural Transformation and Businesses." *Journal of International Economics* 162: 104310. https://doi.org/10.1016/j.jinteco.2026.104310
-
-Dube, Arindrajit, Ethan Kaplan, and Suresh Naidu. 2011. "Coups, Corporations, and Classified Information." *Quarterly Journal of Economics* 126 (3): 1375–1409. https://doi.org/10.1093/qje/qjr030
-
-Ma, Hong, Yu Pan, and Mingzhi Xu. 2025. "The Criminogenic Consequence of Export Slowdown: Evidence from Millions of Court Judgement Documents in China." *Economic Journal* 135 (671): 2242–2275. https://doi.org/10.1093/ej/ueaf024
-
-Tabellini, Marco, and Giacomo Magistretti. 2025. "Economic Integration and the Transmission of Democracy." *Review of Economic Studies* 92 (4): 2765–2792. https://doi.org/10.1093/restud/rdae083
-
-Taylor, M. Scott. 2011. "Buffalo Hunt: International Trade and the Virtual Extinction of the North American Bison." *American Economic Review* 101 (7): 3162–3195. https://doi.org/10.1257/aer.101.7.3162
 
 ## Foreign Aid
 
