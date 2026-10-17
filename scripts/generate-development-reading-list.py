@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Regenerate development-reading-list.html from teaching/development-reading-list.md.
 
-Keeps the live page head and sidebar, and writes the table of contents, citation
-lists, DOI links, and a right-aligned back-to-top link at the end of each section.
+Keeps the live page head and sidebar, including the KaiTi-styled Chinese name
+(span.name-zh), and writes the table of contents, citation lists, DOI links,
+and a right-aligned back-to-top link at the end of each section.
 """
 
 from __future__ import annotations
@@ -166,6 +167,8 @@ def main() -> None:
     markdown = MARKDOWN.read_text()
     title, updated, sections = parse_markdown(markdown)
     prefix, suffix = split_shell(HTML.read_text())
+    if 'class="name-zh"' not in prefix or "许志成" not in prefix:
+        raise SystemExit("reading-list sidebar is missing the KaiTi Chinese name (.name-zh)")
     prefix = ensure_back_to_top_css(prefix)
     body = render_section_body(title, updated, sections)
     HTML.write_text(prefix + body + "\n" + suffix)
