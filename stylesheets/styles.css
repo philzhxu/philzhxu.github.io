@@ -24,6 +24,10 @@ h1 {
   font-weight: 500;
 }
 
+.name-zh {
+  font-family: "KaiTi", "STKaiti", "Kaiti SC", "BiauKai", "楷体", "楷体_GB2312", "AR PL UKai CN", serif;
+}
+
 h2 {
   color:#393939;
   font-weight: 500;

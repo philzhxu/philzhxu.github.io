@@ -1,6 +1,6 @@
 # Reading List of Development Economics
 
-**Last updated:** 2026-10-14
+**Last updated:** 2026-10-17
 
 ## Growth
 
@@ -15,6 +15,8 @@ Asher, Sam, and Paul Novosad. 2020. "Rural Roads and Local Economic Development.
 Ashraf, Quamrul, and Oded Galor. 2011. Dynamics and stagnation in the Malthusian epoch. *American Economic Review*, 101(5), 2003-2041 https://doi.org/10.1257/aer.101.5.2003
 
 Banerjee, Abhijit, Esther Duflo, and Nancy Qian. 2020. "On the Road: Access to Transportation Infrastructure and Economic Growth in China." *Journal of Development Economics* 145: 102442. https://doi.org/10.1016/j.jdeveco.2020.102442
+
+Becker, Sascha O., Erik Hornung, and Ludger Woessmann. 2011. "Education and Catch-up in the Industrial Revolution." *American Economic Journal: Macroeconomics* 3 (3): 92-126. https://doi.org/10.1257/mac.3.3.92
 
 Bo, Shiyu, Cong Liu, and Yan Zhou. 2023. "Military Investment and the Rise of Industrial Clusters: Evidence from China’s Self-Strengthening Movement." *Journal of Development Economics* 161: 103015. https://doi.org/10.1016/j.jdeveco.2022.103015
 
@@ -144,6 +146,8 @@ Luo, Kaicheng, Shaoda Wang, and David Y. Yang. 2025. "Laboratories of Autocracy:
 
 Acemoglu, Daron. 2008. "Oligarchic Versus Democratic Societies." *Journal of European Economic Association* 6 (1):1-44. https://doi.org/10.1162/jeea.2008.6.1.1
 
+Acemoglu, Daron. 2026. *What Happened to Liberal Democracy?: Remaking a Politics of Shared Prosperity*. New York: Dutton.
+
 Acemoglu, Daron, and Alexander Wolitzky. 2011. "The Economics of Labor Coercion." *Econometrica* 79 (2): 555–600. https://doi.org/10.3982/ecta8963
 
 Acemoglu, Daron, and James A. Robinson. 2006. *Economic Origins of Dictatorship and Democracy*. Cambridge: Cambridge University Press. https://doi.org/10.1017/cbo9780511510809
@@ -194,6 +198,8 @@ Glaeser, Edward L., Rafael La Porta, Florencio Lopez-de-Silanes, and Andrei Shle
 
 Goldstein, Markus, and Christopher Udry. 2008. "The Profits of Power: Land Rights and Agricultural Investment in Ghana." *Journal of Political Economy* 116 (6): 981–1022. https://doi.org/10.1086/595561
 
+Hassan, Mai, Daniel Mattingly, and Elizabeth R. Nugent. 2022. "Political Control." *Annual Review of Political Science* 25: 155-174. https://doi.org/10.1146/annurev-polisci-051120-013321
+
 Krusell, Per, and Jose-Victor Rios-Rull. 1996. "Vested Interests in a Positive Theory of Stagnation and Growth." *Review of Economic Studies* 63 (2): 301. https://doi.org/10.2307/2297854
 
 Lagerlöf, Nils-Petter. 2009. "Slavery and Other Property Rights." *Review of Economic Studies* 76 (1): 319–342. https://doi.org/10.1111/j.1467-937x.2008.00511.x
@@ -225,6 +231,8 @@ Song, Zheng, and Wei Xiong. 2026. "The Mandarin Model of Growth." *American Econ
 Wittman, Donald. 1989. "Why Democracies Produce Efficient Results," *Journal of Political Economy* 97(6): 1395-1424. https://doi.org/10.1086/261660
 
 ## Understanding the Power Structures: Democracy, Dictatorship, Leadership, and Ethnic Politics
+
+Acemoglu, Daron. 2026. *What Happened to Liberal Democracy?: Remaking a Politics of Shared Prosperity*. New York: Dutton.
 
 Acemoglu, Daron, and James A. Robinson. 2000. "Why Did the West Extend the Franchise? Growth, Inequality and Democracy in Historical Perspective?" *Quarterly Journal of Economics* 115 (4):1167-1199. https://doi.org/10.1162/003355300555042
 
@@ -268,6 +276,8 @@ Alesina, Alberto, and Ekaterina Zhuravskaya. 2011. "Segregation and the Quality 
 
 Alesina, Alberto, Bryony Reich, and Alessandro Riboni. 2020. "Nation-Building, Nationalism, and Wars." *Journal of Economic Growth* 25 (4): 381-430. https://doi.org/10.1007/s10887-020-09182-7
 
+Alesina, Alberto, Paola Giuliano, and Bryony Reich. 2021. "Nation-Building and Education." *The Economic Journal* 131 (638): 2273-2303. https://doi.org/10.1093/ej/ueab001
+
 Alesina, Alberto, Stelios Michalopoulos, and Elias Papaioannou. 2016. "Ethnic Inequality." *Journal of Political Economy* 124 (2):428-488. https://doi.org/10.1086/685300
 
 Anderson, Siwan, Patrick Francois, and Ashok Kotwal. 2015. "Clientelism in Indian Villages." *American Economic Review* 105 (6): 1780–1816. https://doi.org/10.1257/aer.20130623
@@ -303,6 +313,8 @@ Calderon, Alvaro, Vasiliki Fouka, and Marco Tabellini. 2023. "Racial Diversity a
 Cantoni, Davide, David Y Yang, Noam Yuchtman, and Y Jane Zhang. 2019. "Protests as Strategic Games: Experimental Evidence from Hong Kong's Antiauthoritarian Movement." *Quarterly Journal of Economics* 134 (2): 1021–1077. https://doi.org/10.1093/qje/qjz002
 
 Chattopadhyay, Raghabendra, and Esther Duflo. 2004. "Women as Policy Makers: Evidence from a Randomized Policy Experiment in India." *Econometrica* 72 (5):1409-1443. https://doi.org/10.1111/j.1468-0262.2004.00539.x
+
+Chen, Ting, and James Kai-sing Kung. 2026. "The Rise of the Chinese Communist Party." *Journal of the European Economic Association*. https://doi.org/10.1093/jeea/jvag029
 
 Chen, Yuyu, and David Y. Yang. 2019. "The Impact of Media Censorship: 1984 or Brave New World?" *American Economic Review* 109 (6): 2294-2332. https://doi.org/10.1257/aer.20171765
 
@@ -352,6 +364,8 @@ González, Felipe, Josepa Miquel-Florensa, Mounu Prem, and Stéphane Straub. 202
 
 Gratton, Gabriele, Luigi Guiso, Claudio Michelacci, Massimo Morelli. 2021. “From Weber to Kafka: Political Instability and the Overproduction of Laws.”*American Economic Review* 111 (9): 2964-3003. https://doi.org/10.1257/aer.20190672
 
+Hassan, Mai, Daniel Mattingly, and Elizabeth R. Nugent. 2022. "Political Control." *Annual Review of Political Science* 25: 155-174. https://doi.org/10.1146/annurev-polisci-051120-013321
+
 Hassler, John, José V Rodríguez Mora, Kjetil Storesletten, and Fabrizio Zilibotti. 2003. "The Survival of the Welfare State." *American Economic Review* 93 (1): 87–112. https://doi.org/10.1257/000282803321455179
 
 Hjort, Jonas. 2014. "Ethnic Divisions and Production in Firms." *Quarterly Journal of Economics* 129 (4): 1899–1946. https://doi.org/10.1093/qje/qju028
@@ -361,6 +375,8 @@ Hodler, Roland, and Paul A. Raschky. 2014. "Regional Favoritism." *Quarterly Jou
 *Jones, Benjamin F., and Benjamin A. Olken. 2005. "Do Leaders Matter? National Leadership and Growth since World War II." *Quarterly Journal of Economics* 120 (3):835-864. https://doi.org/10.1162/003355305774268165
 
 Kamada, Yuichiro, and Fuhito Kojima. 2014. "Voter Preferences, Polarization, and Electoral Policies." *American Economic Journal: Microeconomics* 6 (4):203-36. https://doi.org/10.1257/mic.6.4.203
+
+Kim, Jieun. 2026. "Standard Language, Propaganda, and Government Satisfaction under Authoritarianism." *British Journal of Political Science* 56: e24. https://doi.org/10.1017/s000712342610146x
 
 King, Gary, Jennifer Pan, and Margaret E. Roberts. 2017. How the Chinese government fabricates social media posts for strategic distraction, not engaged argument. *Am. Political Sci. Rev*. 111:484–501 https://doi.org/10.1017/s0003055417000144
 
@@ -389,6 +405,10 @@ Michalopoulos, Stelios. 2012. "The Origins of Ethnolinguistic Diversity." *Ameri
 Olson, Mancur. 1993. "Dictatorship, Democracy, and Development." *American Political Science Review* 87(3): 567-576. https://doi.org/10.2307/2938736
 
 Padró i Miquel, Gerard. 2007. "The Control of Politicians in Divided Societies: The Politics of Fear." *Review of Economic Studies* 74 (4): 1259–1274. https://doi.org/10.1111/j.1467-937x.2007.00455.x
+
+Paglayan, Agustina S. 2021. "The Non-Democratic Roots of Mass Education: Evidence from 200 Years." *American Political Science Review* 115 (1): 179-198. https://doi.org/10.1017/s0003055420000647
+
+Paglayan, Agustina S. 2022. "Education or Indoctrination? The Violent Origins of Public School Systems in an Era of State-Building." *American Political Science Review* 116 (4): 1242-1257. https://doi.org/10.1017/s0003055422000247
 
 Piketty, Thomas. 1995. "Social Mobility and Redistributive Politics." *Quarterly Journal of Economics* 110 (3): 551–584. https://doi.org/10.2307/2946692
 
@@ -500,6 +520,8 @@ Falk, Armin, Anke Becker, Thomas Dohmen, Benjamin Enke, David Huffman, and Uwe S
 
 Fouka, Vasiliki. 2020. "Backlash: The Unintended Effects of Language Prohibition in U.S. Schools after World War I." *Review of Economic Studies* 87 (1): 204–239. https://doi.org/10.1093/restud/rdz024
 
+Fuchs-Schündeln, Nicola, and Paolo Masella. 2016. "Long-Lasting Effects of Socialist Education." *Review of Economics and Statistics* 98 (3): 428-441. https://doi.org/10.1162/rest_a_00583
+
 Ghosh, Arkadev, Sam Il Myoung Hwang, and Munir Squires. 2023. "Economic Consequences of Kinship: Evidence From U.S. Bans on Cousin Marriage." *Quarterly Journal of Economics* 138 (4): 2559–2606. https://doi.org/10.1093/qje/qjad018
 
 Giuliano, Paola, and Nathan Nunn. 2021. “Understanding Cultural Persistence and Change,” *Review of Economic Studies*, 88 (4), 1541–1581. https://doi.org/10.1093/restud/rdaa074
@@ -582,6 +604,8 @@ Alesina, Alberto, and Enrico Spolaore. 2005. "War, Peace, and the Size of Countr
 
 Alesina, Alberto, Enrico Spolaore, and Romain Wacziarg. 2000. "Economic Integration and Political Disintegration." *American Economic Review* 90 (5):1276-1296. https://doi.org/10.1257/aer.90.5.1276
 
+Alesina, Alberto, Paola Giuliano, and Bryony Reich. 2021. "Nation-Building and Education." *The Economic Journal* 131 (638): 2273-2303. https://doi.org/10.1093/ej/ueab001
+
 Alesina, Alberto; Bryony Reich and Alessandro Riboni. 2020. "Nation-Building, Nationalism, and Wars." *Journal of Economic Growth*, 25(4), 381-430. https://doi.org/10.1007/s10887-020-09182-7
 
 Ali, Merima, Odd-Helge Fjeldstad, Boqian Jiang, and Abdulaziz B Shifa. 2019. "Colonial Legacy, State-Building and the Salience of Ethnicity in Sub-Saharan Africa." *The Economic Journal* 129 (619):1048-1081. https://doi.org/10.1111/ecoj.12595
@@ -641,6 +665,10 @@ Luo, Kaicheng, Shaoda Wang, and David Y. Yang. 2025. "Laboratories of Autocracy:
 Mayshar, Joram, Omer Moav, and Luigi Pascali. 2022. "The Origin of the State: Land Productivity or Appropriability?" *Journal of Political Economy* 130 (4): 1091–1144. https://doi.org/10.1086/718372
 
 Muralidharan, Karthik, Paul Niehaus, and Sandip Sukhtankar (2016). Building State Capacity: Evidence from Biometric Smartcards in India. *American Economic Review*, 106(10): 2895-2929 https://doi.org/10.1257/aer.20141346
+
+Paglayan, Agustina S. 2021. "The Non-Democratic Roots of Mass Education: Evidence from 200 Years." *American Political Science Review* 115 (1): 179-198. https://doi.org/10.1017/s0003055420000647
+
+Paglayan, Agustina S. 2022. "Education or Indoctrination? The Violent Origins of Public School Systems in an Era of State-Building." *American Political Science Review* 116 (4): 1242-1257. https://doi.org/10.1017/s0003055422000247
 
 Qian, Yingyi, and Barry R. Weingast. 1997. "Federalism as a Commitment to Preserving Market Incentives." *Journal of Economic Perspectives* 11 (4): 83-92. https://doi.org/10.1257/jep.11.4.83
 
@@ -900,6 +928,8 @@ Moscona, Jacob; Nathan Nunn and James A Robinson. 2020. "Segmentary Lineage Orga
 
 Olken, Benjamin A., and Patrick Barron. 2009. "The Simple Economics of Extortion: Evidence from Trucking in Aceh." *Journal of Political Economy* 117 (3): 417–452. https://doi.org/10.1086/599707
 
+Paglayan, Agustina S. 2022. "Education or Indoctrination? The Violent Origins of Public School Systems in an Era of State-Building." *American Political Science Review* 116 (4): 1242-1257. https://doi.org/10.1017/s0003055422000247
+
 Passarelli, Francesco, and Guido Tabellini. 2017. "Emotions and Political Unrest." *Journal of Political Economy* 125 (3): 903–946. https://doi.org/10.1086/691700
 
 Pinker, Steven. 2012. The Better Angels of Our Nature: a History of Violence and Humanity. Penguin.
@@ -950,6 +980,8 @@ Banerjee, Abhijit, and Lakshmi Iyer. 2005. "History, Institutions, and Economic 
 
 Becker, Sascha O., and Luigi Pascali. 2019. "Religion, Division of Labor, and Conflict: Anti-Semitism in Germany over 600 Years." *American Economic Review* 109 (5): 1764–1804. https://doi.org/10.1257/aer.20170279
 
+Becker, Sascha O., Erik Hornung, and Ludger Woessmann. 2011. "Education and Catch-up in the Industrial Revolution." *American Economic Journal: Macroeconomics* 3 (3): 92-126. https://doi.org/10.1257/mac.3.3.92
+
 Berger, Daniel, William Easterly, Nathan Nunn, and Shanker Satyanath. 2013. "Commercial Imperialism? Political Influence and Trade During the Cold War." *American Economic Review* 103 (2):863-96. https://doi.org/10.1257/aer.103.2.863
 
 Bowles, Samuel, and Mattia Fochesato. 2024. "The Origins of Enduring Economic Inequality." *Journal of Economic Literature* 62 (4): 1475-1537. https://doi.org/10.1257/jel.20241718
@@ -966,6 +998,8 @@ Cappelli, Gabriele, and Joerg Baten. 2021. "Numeracy Development in Africa: New 
 
 Chen, Shuo, Kung, J. K. 2016. “Of Maize and Men: the Effect of a New World Crop on Population and Economic Growth in China.”*Journal of Economic Growth* 21(1): 71–99. https://doi.org/10.1007/s10887-016-9125-8
 
+Chen, Ting, and James Kai-sing Kung. 2026. "The Rise of the Chinese Communist Party." *Journal of the European Economic Association*. https://doi.org/10.1093/jeea/jvag029
+
 *Chen, Ting, James Kai-sing Kung, and Chicheng Ma. 2020. "Long Live Keju! The Persistent Effects of China's Civil Examination System." *Economic Journal* 130 (631): 2030–2064. https://doi.org/10.1093/ej/ueaa043
 
 Cherniwchan, Jevan, and Juan Moreno-Cruz. 2019. "Maize and Precolonial Africa." *Journal of Development Economics* 136:137-150. https://doi.org/10.1016/j.jdeveco.2018.10.008
@@ -977,6 +1011,8 @@ Diamond, Jared. 1997. Guns, Germs, and Steel. New York: W.W. Norton & Co.
 Fan, Jingting, and Ben Zou. 2021. "Industrialization from Scratch: The 'Construction of Third Front' and Local Economic Development in China's Hinterland." *Journal of Development Economics* 152: 102698. https://doi.org/10.1016/j.jdeveco.2021.102698
 
 Fouka, Vasiliki. 2020. "Backlash: The Unintended Effects of Language Prohibition in U.S. Schools after World War I." *Review of Economic Studies* 87 (1): 204–239. https://doi.org/10.1093/restud/rdz024
+
+Fuchs-Schündeln, Nicola, and Paolo Masella. 2016. "Long-Lasting Effects of Socialist Education." *Review of Economics and Statistics* 98 (3): 428-441. https://doi.org/10.1162/rest_a_00583
 
 Giorcelli, Michela, and Bo Li. 2026. "Technology Transfer and Early Industrial Development: Evidence from the Sino-Soviet Alliance." *Review of Economic Studies*, advance online publication. https://doi.org/10.1093/restud/rdag047
 
@@ -991,6 +1027,8 @@ Herbst, Jeffrey. 2010. States and Power in Africa, Princeton: Princeton Universi
 Huillery, Elise. 2009. "History Matters: The Long-Term Impact of Colonial Public Investments in French West Africa." *American Economic Journal: Applied Economics* 1 (2):176-215. https://doi.org/10.1257/app.1.2.176
 
 Jia, Ruixue. 2014. "The Legacies of Forced Freedom: China's Treaty Ports." *Review of Economics and Statistics* 96 (4):596-608. https://doi.org/10.1162/rest_a_00458
+
+Kung, James Kai-sing, and Alina Wang. 2026. "Overseas Students, Ideology, and the Fall of Dynastic China." *Journal of Economic Growth* 31 (1): 1-40. https://doi.org/10.1007/s10887-025-09258-2
 
 Lagerlöf, Nils-Petter. 2009. "Slavery and Other Property Rights." *Review of Economic Studies* 76 (1): 319–342. https://doi.org/10.1111/j.1467-937x.2008.00511.x
 
@@ -1025,6 +1063,10 @@ Nunn, Nathan, and Leonard Wantchekon. 2011. "The Slave Trade and the Origins of 
 Nunn, Nathan, and Nancy Qian. 2011. "The Potato's Contribution to Population and Urbanization: Evidence from a Historical Experiment." *Quarterly Journal of Economics* 126 (2):593-650. https://doi.org/10.1093/qje/qjr009
 
 Olsson, Ola, and Christopher Paik, 2016. Long-Run cultural divergence: Evidence from the Neolithic. *Journal of Development Economics*, 122, 197--213 https://doi.org/10.1016/j.jdeveco.2016.05.003
+
+Paglayan, Agustina S. 2021. "The Non-Democratic Roots of Mass Education: Evidence from 200 Years." *American Political Science Review* 115 (1): 179-198. https://doi.org/10.1017/s0003055420000647
+
+Paglayan, Agustina S. 2022. "Education or Indoctrination? The Violent Origins of Public School Systems in an Era of State-Building." *American Political Science Review* 116 (4): 1242-1257. https://doi.org/10.1017/s0003055422000247
 
 Sequeira, Sandra, Nathan Nunn, and Nancy Qian. 2020. "Immigrants and the Making of America." *Review of Economic Studies* 87 (1): 382–419. https://doi.org/10.1093/restud/rdz003
 
@@ -1097,6 +1139,8 @@ Kaboski, Joseph P., Will Jianyu Lu, Wei Qian, and Lixia Ren. 2026. "Melitz Meets
 Kline, Patrick, and Enrico Moretti. 2014. "People, Places, and Public Policy: Some Simple Welfare Economics of Local Economic Development Programs," *Annual Review of Economics*, 6(1), 629-662 https://doi.org/10.1146/annurev-economics-080213-041024
 
 Lin, Justin Yifu. 1992. "Rural Reforms and Agricultural Growth in China." *American Economic Review* 82 (1): 34-51.
+
+Lin, Xin, Eddie Chi-man Hui, Zhenglong Cong, and Jianfu Shen. 2026. "Solving Coordination Failures: Collective Land Transfer Rights and Rural Entrepreneurship." *Journal of Development Economics* 178: 103609. https://doi.org/10.1016/j.jdeveco.2025.103609
 
 Liu Shouying, Ma Sen, Yin Lijuan and Zhu Jiong. Land titling, human capital misallocation, and agricultural productivity in China. *Journal of Development Economics*, 2023, Vol.165: 103165. https://doi.org/10.1016/j.jdeveco.2023.103165
 
@@ -1528,6 +1572,8 @@ Chen, Shuo, Haoyuan Ding, Shu Lin, and Haichun Ye. 2022. "From past lies to curr
 
 Chen, Shuo, Kung, J. K. 2016. “Of Maize and Men: the Effect of a New World Crop on Population and Economic Growth in China.”*Journal of Economic Growth* 21(1): 71–99. https://doi.org/10.1007/s10887-016-9125-8
 
+Chen, Ting, and James Kai-sing Kung. 2026. "The Rise of the Chinese Communist Party." *Journal of the European Economic Association*. https://doi.org/10.1093/jeea/jvag029
+
 *Chen, Ting, James Kai-sing Kung, and Chicheng Ma. 2020. "Long Live Keju! The Persistent Effects of China's Civil Examination System." *Economic Journal* 130 (631): 2030–2064. https://doi.org/10.1093/ej/ueaa043
 
 Chen, Yi, Ziying Fan, Xiaomin Gu, and Li-An Zhou. Arrival of Young Talent: The Send-down Movement and Rural Education in China. *American Economic Review* 110(11), 3393－3430. https://doi.org/10.1257/aer.20191414
@@ -1582,7 +1628,11 @@ Jia, Ruixue. 2014. "The Legacies of Forced Freedom: China's Treaty Ports." *Revi
 
 Kaboski, Joseph P., Will Jianyu Lu, Wei Qian, and Lixia Ren. 2026. "Melitz Meets Lewis: The Impacts of Roads on Structural Transformation and Businesses." *Journal of International Economics* 162: 104310. https://doi.org/10.1016/j.jinteco.2026.104310
 
+Kim, Jieun. 2026. "Standard Language, Propaganda, and Government Satisfaction under Authoritarianism." *British Journal of Political Science* 56: e24. https://doi.org/10.1017/s000712342610146x
+
 King, Gary, Jennifer Pan, and Margaret E. Roberts. 2017. How the Chinese government fabricates social media posts for strategic distraction, not engaged argument. *Am. Political Sci. Rev*. 111:484–501 https://doi.org/10.1017/s0003055417000144
+
+Kung, James Kai-sing, and Alina Wang. 2026. "Overseas Students, Ideology, and the Fall of Dynastic China." *Journal of Economic Growth* 31 (1): 1-40. https://doi.org/10.1007/s10887-025-09258-2
 
 Kung, James Kai-sing, and Chicheng Ma. 2014. "Can Cultural Norms Reduce Conflicts? Confucianism and Peasant Rebellions in Qing China." *Journal of Development Economics* 111:132-149. https://doi.org/10.1016/j.jdeveco.2014.08.006
 
@@ -1607,6 +1657,8 @@ Li, Xing, Chong Liu, Xi Weng, and Li-An Zhou. 2019. "Target setting in tournamen
 Liang, Ruobing; Xiaobing Wang and Futoshi Yamauchi. 2021. "Cotton Revolution and Widow Chastity in Ming and Qing China." *American Journal of Agricultural Economics*, 103(1), 232-52. https://doi.org/10.1002/ajae.12085
 
 Lin, Justin Yifu. 1992. "Rural Reforms and Agricultural Growth in China." *American Economic Review* 82 (1): 34-51.
+
+Lin, Xin, Eddie Chi-man Hui, Zhenglong Cong, and Jianfu Shen. 2026. "Solving Coordination Failures: Collective Land Transfer Rights and Rural Entrepreneurship." *Journal of Development Economics* 178: 103609. https://doi.org/10.1016/j.jdeveco.2025.103609
 
 Liu, Hanzhang. 2024. "Meritocracy as Authoritarian Co-optation: Political Selection and Upward Mobility in China." *American Political Science Review* 118 (4): 1856–1872. https://doi.org/10.1017/s000305542300120x
 
