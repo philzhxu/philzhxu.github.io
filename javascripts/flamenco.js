@@ -1,7 +1,8 @@
 // Sony Music China's official Bilibili upload of the 1959 Kind of Blue
 // master. The player stays invisible; the page does not host the audio.
 // A full navigation unloads the iframe, so the start time is kept in
-// sessionStorage and the next page seeks there.
+// sessionStorage and the next page seeks there. Links between site pages
+// do not unload the document, so the same player keeps going.
 var FLAMENCO_BASE = "https://player.bilibili.com/player.html?isOutside=true&aid=81449345&bvid=BV14J411h7xr&cid=304116945&p=1&danmaku=0&autoplay=1";
 var FLAMENCO_KEY = "flamenco-sketches";
 var FLAMENCO_LENGTH = 567;
@@ -13,6 +14,9 @@ var FLAMENCO_LENGTH = 567;
     host.id = "flamenco";
     host.className = "flamenco-audio";
     host.setAttribute("aria-hidden", "true");
+    document.body.appendChild(host);
+  }
+  if (host.parentNode !== document.body) {
     document.body.appendChild(host);
   }
 
@@ -165,4 +169,145 @@ var FLAMENCO_LENGTH = 567;
     mount();
     arm();
   }
+
+  var navToken = 0;
+
+  function pagePath(url) {
+    var path = url.pathname || "/";
+    if (path.length > 1 && path.charAt(path.length - 1) === "/") {
+      path = path.slice(0, -1);
+    }
+    return path || "/";
+  }
+
+  function isSitePage(url) {
+    if (url.origin !== location.origin) {
+      return false;
+    }
+    var path = pagePath(url);
+    return path === "/" || path === "/index.html" || /\.html$/i.test(path);
+  }
+
+  function sameDocument(url) {
+    return pagePath(url) === pagePath(location) && url.search === location.search;
+  }
+
+  function runInlineScripts(scripts) {
+    scripts.forEach(function (old) {
+      if (old.getAttribute("src")) {
+        return;
+      }
+      var code = old.textContent || "";
+      if (!code.trim() || code.indexOf("gtag") !== -1 || code.indexOf("GoogleAnalytics") !== -1) {
+        return;
+      }
+      var script = document.createElement("script");
+      script.textContent = code;
+      document.body.appendChild(script);
+    });
+  }
+
+  function render(html, url, push) {
+    var doc = new DOMParser().parseFromString(html, "text/html");
+    var incoming = doc.getElementById("flamenco");
+    if (incoming) {
+      incoming.remove();
+    }
+    var scripts = Array.prototype.slice.call(doc.body.querySelectorAll("script"));
+    scripts.forEach(function (script) {
+      script.remove();
+    });
+    if (host.parentNode !== document.body) {
+      document.body.appendChild(host);
+    }
+    Array.prototype.slice.call(document.body.children).forEach(function (node) {
+      if (node !== host) {
+        node.remove();
+      }
+    });
+    Array.prototype.slice.call(doc.body.childNodes).forEach(function (node) {
+      document.body.insertBefore(node, host);
+    });
+    if (doc.title) {
+      document.title = doc.title;
+    }
+    if (push) {
+      history.pushState({ flamenco: 1 }, "", url.pathname + url.search + url.hash);
+    }
+    if (url.hash) {
+      var target = document.getElementById(decodeURIComponent(url.hash.slice(1)));
+      if (target && target.scrollIntoView) {
+        target.scrollIntoView();
+      }
+    } else {
+      window.scrollTo(0, 0);
+    }
+    runInlineScripts(scripts);
+  }
+
+  function openPage(url, push) {
+    var token = ++navToken;
+    fetch(url.href, { credentials: "same-origin" })
+      .then(function (res) {
+        if (!res.ok) {
+          throw new Error(String(res.status));
+        }
+        return res.text();
+      })
+      .then(function (html) {
+        if (token !== navToken) {
+          return;
+        }
+        render(html, url, push);
+      })
+      .catch(function () {
+        if (token !== navToken) {
+          return;
+        }
+        location.href = url.href;
+      });
+  }
+
+  document.addEventListener("click", function (event) {
+    if (event.defaultPrevented || event.button !== 0) {
+      return;
+    }
+    if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) {
+      return;
+    }
+    var link = event.target && event.target.closest ? event.target.closest("a") : null;
+    if (!link || !link.getAttribute("href")) {
+      return;
+    }
+    if (link.target && link.target !== "_self") {
+      return;
+    }
+    if (link.hasAttribute("download")) {
+      return;
+    }
+    var url;
+    try {
+      url = new URL(link.href, location.href);
+    } catch (err) {
+      return;
+    }
+    if (!isSitePage(url)) {
+      return;
+    }
+    if (sameDocument(url)) {
+      if (!url.hash) {
+        event.preventDefault();
+      }
+      return;
+    }
+    event.preventDefault();
+    openPage(url, true);
+  }, true);
+
+  if (!history.state || !history.state.flamenco) {
+    history.replaceState({ flamenco: 1 }, "", location.href);
+  }
+  window.addEventListener("popstate", function () {
+    openPage(new URL(location.href), false);
+  });
 })();
