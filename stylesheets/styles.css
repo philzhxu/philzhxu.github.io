@@ -291,17 +291,20 @@ footer {
 }
 
 .track-player-embed {
+  position:relative;
   flex:1 0 100%;
   width:100%;
-  min-height:152px;
-  border-radius:12px;
+  aspect-ratio:16 / 9;
+  background:#111;
+  border-radius:4px;
   overflow:hidden;
 }
 
 .track-player-embed iframe {
-  display:block;
+  position:absolute;
+  inset:0;
   width:100%;
-  height:152px;
+  height:100%;
   border:0;
 }
 
