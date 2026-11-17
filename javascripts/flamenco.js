@@ -1,12 +1,42 @@
 // Sony Music China's official Bilibili upload of the 1959 Kind of Blue
 // master. The player stays invisible; the page does not host the audio.
-var FLAMENCO_SRC = "https://player.bilibili.com/player.html?isOutside=true&aid=81449345&bvid=BV14J411h7xr&cid=304116945&p=1&danmaku=0&autoplay=1";
+// A full navigation unloads the iframe, so the start time is kept in
+// sessionStorage and the next page seeks there.
+var FLAMENCO_BASE = "https://player.bilibili.com/player.html?isOutside=true&aid=81449345&bvid=BV14J411h7xr&cid=304116945&p=1&danmaku=0&autoplay=1";
+var FLAMENCO_KEY = "flamenco-sketches";
+var FLAMENCO_LENGTH = 567;
 
 (function () {
   var host = document.getElementById("flamenco");
   if (!host) {
-    return;
+    host = document.createElement("div");
+    host.id = "flamenco";
+    host.className = "flamenco-audio";
+    host.setAttribute("aria-hidden", "true");
+    document.body.appendChild(host);
   }
+
+  function readState() {
+    try {
+      var raw = sessionStorage.getItem(FLAMENCO_KEY);
+      return raw ? JSON.parse(raw) : null;
+    } catch (error) {
+      return null;
+    }
+  }
+
+  function writeState(state) {
+    try {
+      sessionStorage.setItem(FLAMENCO_KEY, JSON.stringify(state));
+    } catch (error) {}
+  }
+
+  var state = readState();
+  var now = Date.now();
+  if (!state || typeof state.startedAt !== "number" || state.startedAt > now) {
+    state = { startedAt: now, audible: false };
+  }
+  writeState(state);
 
   // Center of the speaker control inside the 640x360 player.
   // The host is clipped to that control, so only it can take a click.
@@ -26,11 +56,17 @@ var FLAMENCO_SRC = "https://player.bilibili.com/player.html?isOutside=true&aid=8
 
   place(24, 24);
 
+  function markAudible() {
+    state.audible = true;
+    writeState(state);
+  }
+
   function park() {
     if (parked) {
       return;
     }
     parked = true;
+    markAudible();
     document.removeEventListener("pointermove", onMove, true);
     host.style.pointerEvents = "none";
     host.style.zIndex = "-1";
@@ -82,32 +118,51 @@ var FLAMENCO_SRC = "https://player.bilibili.com/player.html?isOutside=true&aid=8
     window.setTimeout(park, 250);
   }
 
+  function sourceNow() {
+    var seconds = Math.floor((Date.now() - state.startedAt) / 1000);
+    if (seconds < 0) {
+      seconds = 0;
+    }
+    if (seconds > FLAMENCO_LENGTH - 1) {
+      seconds = FLAMENCO_LENGTH - 1;
+    }
+    return FLAMENCO_BASE + "&muted=0" + (seconds > 0 ? "&t=" + seconds : "");
+  }
+
   var iframe = document.createElement("iframe");
   iframe.id = "flamenco-player";
   iframe.setAttribute("aria-hidden", "true");
   iframe.tabIndex = -1;
   iframe.allow = "autoplay; encrypted-media";
-  iframe.src = FLAMENCO_SRC;
   window.addEventListener("blur", function () {
     if (!armed || parked || document.activeElement !== iframe) {
       return;
     }
     window.setTimeout(park, 300);
   });
-  host.replaceChildren(iframe);
+
+  function mount() {
+    iframe.src = sourceNow();
+    host.replaceChildren(iframe);
+  }
 
   // A silent one-sample wave, not the recording. It only asks whether sound may start.
+  // The player is created after that answer so Bilibili can begin with sound when allowed.
   var probe = document.createElement("audio");
   probe.src = "data:audio/wav;base64,UklGRiQAAABXQVZFZm10IBAAAAABAAEAESsAACJWAAACABAAZGF0YQAAAAA=";
   var attempt = probe.play();
   if (attempt && typeof attempt.then === "function") {
     attempt.then(function () {
       soundAllowed = true;
+      markAudible();
       probe.pause();
+      mount();
     }).catch(function () {
+      mount();
       arm();
     });
   } else {
+    mount();
     arm();
   }
 })();
