@@ -1,6 +1,6 @@
 # Reading List of Development Economics
 
-**Last updated:** 2026-10-17
+**Last updated:** 2026-11-17
 
 ## Growth
 
@@ -75,6 +75,8 @@ Song, Zheng, and Wei Xiong. 2026. "The Mandarin Model of Growth." *American Econ
 *Song, Zheng, Kjetil Storesletten, and Fabrizio Zilibotti. 2011. "Growing Like China." *American Economic Review* 101 (1):196-233. https://doi.org/10.1257/aer.101.1.196
 
 Strulik, Holger, Klaus Prettner, and Alexia Prskawetz. 2013. The past and future of knowledge-based growth. *Journal of Economic Growth*, 18(4), 411-437 https://doi.org/10.1007/s10887-013-9098-9
+
+Voth, Hans-Joachim, Bruno Caprettini, and Alex Trew. 2026. "Fighting for Growth: Labor Scarcity and Technological Progress during the British Industrial Revolution." *American Economic Review* 116 (10): 3837–3874. https://doi.org/10.1257/aer.20240393
 
 *Zhu, Xiaodong. 2012. "Understanding China's Growth: Past, Present, and Future." *Journal of Economic Perspectives* 26 (4):103-124. https://doi.org/10.1257/jep.26.4.103
 
@@ -1082,6 +1084,8 @@ Toews, Gerhard, and Pierre-Louis Vézina. 2025. "Enemies of the People." *Americ
 
 Voigtländer, Nico, and Hans-Joachim Voth. 2013. "The Three Horsemen of Riches: Plague, War, and Urbanization in Early Modern Europe." *Review of Economic Studies* 80 (2): 774–811. https://doi.org/10.1093/restud/rds034
 
+Voth, Hans-Joachim, Bruno Caprettini, and Alex Trew. 2026. "Fighting for Growth: Labor Scarcity and Technological Progress during the British Industrial Revolution." *American Economic Review* 116 (10): 3837–3874. https://doi.org/10.1257/aer.20240393
+
 Voth, Hans-Joachim and Nico Voigtlander. 2012. "Persecution Perpetuated: The Medieval Origins of Antisemitic Violence in Nazi Germany," *Quarterly Journal of Economics*, 127 (3): 1339-1392. https://doi.org/10.1093/qje/qjs019
 
 Wantchekon, Leonard, Marko Klašnja, and Natalija Novta. 2015. "Education and Human Capital Externalities: Evidence from Colonial Benin." *Quarterly Journal of Economics* 130 (2): 703–757. https://doi.org/10.1093/qje/qjv004
@@ -1151,6 +1155,8 @@ Michaels, Guy, Dzhamilya Nigmatulina, Ferdinand Rauch, Tanner Regan, Neeraj Baru
 Sequeira, Sandra, Nathan Nunn, and Nancy Qian. 2020. "Immigrants and the Making of America." *Review of Economic Studies* 87 (1): 382–419. https://doi.org/10.1093/restud/rdz003
 
 Tabellini, Marco. 2020. "Gifts of the Immigrants, Woes of the Natives: Lessons from the Age of Mass Migration." *Review of Economic Studies* 87 (1): 454–486. https://doi.org/10.1093/restud/rdz027
+
+Voth, Hans-Joachim, Bruno Caprettini, and Alex Trew. 2026. "Fighting for Growth: Labor Scarcity and Technological Progress during the British Industrial Revolution." *American Economic Review* 116 (10): 3837–3874. https://doi.org/10.1257/aer.20240393
 
 Zhang, Li, Lunyu Xie, and Xinye Zheng. 2023. Across a few prohibitive miles: The impact of the Anti-Poverty Relocation Program in China. *Journal of Development Economics*, 160, 102945. https://doi.org/10.1016/j.jdeveco.2022.102945
 
