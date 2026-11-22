@@ -1,6 +1,6 @@
 # Reading List of Development Economics
 
-**Last updated:** 2026-11-17
+**Last updated:** 2026-11-22
 
 ## Growth
 
@@ -17,6 +17,8 @@ Ashraf, Quamrul, and Oded Galor. 2011. Dynamics and stagnation in the Malthusian
 Banerjee, Abhijit, Esther Duflo, and Nancy Qian. 2020. "On the Road: Access to Transportation Infrastructure and Economic Growth in China." *Journal of Development Economics* 145: 102442. https://doi.org/10.1016/j.jdeveco.2020.102442
 
 Becker, Sascha O., Erik Hornung, and Ludger Woessmann. 2011. "Education and Catch-up in the Industrial Revolution." *American Economic Journal: Macroeconomics* 3 (3): 92-126. https://doi.org/10.1257/mac.3.3.92
+
+Blattman, Christopher, Scott Gehlbach, and Zeyang Yu. 2025. "The Personalist Penalty: Varieties of Autocracy and Economic Growth." NBER Working Paper 34093. https://doi.org/10.3386/w34093
 
 Bo, Shiyu, Cong Liu, and Yan Zhou. 2023. "Military Investment and the Rise of Industrial Clusters: Evidence from China’s Self-Strengthening Movement." *Journal of Development Economics* 161: 103015. https://doi.org/10.1016/j.jdeveco.2022.103015
 
@@ -43,6 +45,8 @@ Fogel, Robert William. 1964. *Railroads and American Economic Growth*: Johns Hop
 Foster, D. Andrew, Mark R. Rosenzweig. Learning by Doing and Learning from Others: Human Capital and Technical Change in Agriculture. *Journal of Political Economy* 1995, 103(6): 1176-1209. https://doi.org/10.1086/601447
 
 Foster, D. Andrew, Mark R. Rosenzweig. Microeconomics of Technology Adoption. *Annual Review of Economics*. 2010. 2:395-424. https://doi.org/10.1146/annurev.economics.102308.124433
+
+Funke, Manuel, Moritz Schularick, and Christoph Trebesch. 2023. "Populist Leaders and the Economy." *American Economic Review* 113 (12): 3249–88. https://doi.org/10.1257/aer.20202045
 
 Giorcelli, Michela, and Bo Li. 2026. "Technology Transfer and Early Industrial Development: Evidence from the Sino-Soviet Alliance." *Review of Economic Studies*, advance online publication. https://doi.org/10.1093/restud/rdag047
 
@@ -182,6 +186,8 @@ Besley, Timothy, and Torsten Persson. 2011. *Pillars of Prosperity: The Politica
 
 Besley, Timothy, and Torsten Persson. 2011. Pillars of Prosperity: The Political Economics of Development Clusters. Princeton, Princeton University Press. https://doi.org/10.23943/princeton/9780691152684.001.0001
 
+Blattman, Christopher, Scott Gehlbach, and Zeyang Yu. 2025. "The Personalist Penalty: Varieties of Autocracy and Economic Growth." NBER Working Paper 34093. https://doi.org/10.3386/w34093
+
 Burgess, Robin, Remi Jedwab, Edward Miguel, Ameet Morjaria, and Gerard Padró i Miquel. 2015. "The Value of Democracy: Evidence from Road Building in Kenya." *American Economic Review* 105 (6):1817-51. https://doi.org/10.1257/aer.20131031
 
 Cantoni, Davide, and Noam Yuchtman. 2014. "Medieval Universities, Legal Institutions, and the Commercial Revolution." *Quarterly Journal of Economics* 129 (2): 823–887. https://doi.org/10.1093/qje/qju007
@@ -300,6 +306,8 @@ Besley, Timothy, and Torsten Persson. 2023. "The Political Economics of Green Tr
 
 Bidner, Chris and Patrick Francois. 2013. "The Emergence of Political Accountability" *Quarterly Journal of Economics* 128 (3): 1397-1448. https://doi.org/10.1093/qje/qjt014
 
+Blattman, Christopher, Scott Gehlbach, and Zeyang Yu. 2025. "The Personalist Penalty: Varieties of Autocracy and Economic Growth." NBER Working Paper 34093. https://doi.org/10.3386/w34093
+
 Blouin, Arthur, and Sharun W. Mukand. 2019. "Erasing Ethnicity? Propaganda, Nation Building, and Identity in Rwanda." *Journal of Political Economy* 127 (3): 1008–1062. https://doi.org/10.1086/701441
 
 Brückner, Markus, and Antonio Ciccone. 2011. "Rain and the Democratic Window of Opportunity." *Econometrica* 79 (3):923-947. https://doi.org/10.3982/ecta8183
@@ -356,6 +364,8 @@ Francois, Patrick, Ilia Rainer, and Francesco Trebbi. 2015. "How Is Power Shared
 
 Fujiwara, Thomas. 2015. "Voting Technology, Political Responsiveness, and Infant Health: Evidence From Brazil." *Econometrica* 83 (2): 423–464. https://doi.org/10.3982/ecta11520
 
+Funke, Manuel, Moritz Schularick, and Christoph Trebesch. 2023. "Populist Leaders and the Economy." *American Economic Review* 113 (12): 3249–88. https://doi.org/10.1257/aer.20202045
+
 *Glaeser, Edward, Giacomo Ponzetto, and Andrei Shleifer. 2007. "Why Does Democracy Need Education?" *Journal of Economic Growth* 12 (2):77-99. https://doi.org/10.1007/s10887-007-9015-1
 
 Glaeser, Edward L., Rafael La Porta, Florencio Lopez-de-Silanes, and Andrei Shleifer. 2004. "Do Institutions Cause Growth." *Journal of Economic Growth* 9 (3):271-303. https://doi.org/10.1023/b:joeg.0000038933.16398.ed
@@ -405,6 +415,8 @@ Matranga, Andrea, and Timur Natkhov. 2026. "All Along the Watchtower: Military L
 Michalopoulos, Stelios. 2012. "The Origins of Ethnolinguistic Diversity." *American Economic Review* 102 (4):1508-39. https://doi.org/10.1257/aer.102.4.1508
 
 Olson, Mancur. 1993. "Dictatorship, Democracy, and Development." *American Political Science Review* 87(3): 567-576. https://doi.org/10.2307/2938736
+
+Ottinger, Sebastian, and Nico Voigtländer. 2025. "History's Masters The Effect of European Monarchs on State Performance." *Econometrica* 93 (1): 95–128. https://doi.org/10.3982/ecta20830
 
 Padró i Miquel, Gerard. 2007. "The Control of Politicians in Divided Societies: The Politics of Fear." *Review of Economic Studies* 74 (4): 1259–1274. https://doi.org/10.1111/j.1467-937x.2007.00455.x
 
@@ -664,9 +676,13 @@ Lai, Weizheng, Lixin Colin Xu, and Li Yang. 2026. "Stationary Bandits, State Cap
 
 Luo, Kaicheng, Shaoda Wang, and David Y. Yang. 2025. "Laboratories of Autocracy: Landscape of Central–Local Dynamics in China’s Policy Universe." NBER Working Paper 34219. https://doi.org/10.3386/w34219
 
+Mastrorocco, Nicola, and Edoardo Teso. 2026. "State Capacity as an Organizational Problem." *Review of Economic Studies*, advance online publication. https://doi.org/10.1093/restud/rdag061
+
 Mayshar, Joram, Omer Moav, and Luigi Pascali. 2022. "The Origin of the State: Land Productivity or Appropriability?" *Journal of Political Economy* 130 (4): 1091–1144. https://doi.org/10.1086/718372
 
 Muralidharan, Karthik, Paul Niehaus, and Sandip Sukhtankar (2016). Building State Capacity: Evidence from Biometric Smartcards in India. *American Economic Review*, 106(10): 2895-2929 https://doi.org/10.1257/aer.20141346
+
+Ottinger, Sebastian, and Nico Voigtländer. 2025. "History's Masters The Effect of European Monarchs on State Performance." *Econometrica* 93 (1): 95–128. https://doi.org/10.3982/ecta20830
 
 Paglayan, Agustina S. 2021. "The Non-Democratic Roots of Mass Education: Evidence from 200 Years." *American Political Science Review* 115 (1): 179-198. https://doi.org/10.1017/s0003055420000647
 
@@ -1065,6 +1081,8 @@ Nunn, Nathan, and Leonard Wantchekon. 2011. "The Slave Trade and the Origins of 
 Nunn, Nathan, and Nancy Qian. 2011. "The Potato's Contribution to Population and Urbanization: Evidence from a Historical Experiment." *Quarterly Journal of Economics* 126 (2):593-650. https://doi.org/10.1093/qje/qjr009
 
 Olsson, Ola, and Christopher Paik, 2016. Long-Run cultural divergence: Evidence from the Neolithic. *Journal of Development Economics*, 122, 197--213 https://doi.org/10.1016/j.jdeveco.2016.05.003
+
+Ottinger, Sebastian, and Nico Voigtländer. 2025. "History's Masters The Effect of European Monarchs on State Performance." *Econometrica* 93 (1): 95–128. https://doi.org/10.3982/ecta20830
 
 Paglayan, Agustina S. 2021. "The Non-Democratic Roots of Mass Education: Evidence from 200 Years." *American Political Science Review* 115 (1): 179-198. https://doi.org/10.1017/s0003055420000647
 
