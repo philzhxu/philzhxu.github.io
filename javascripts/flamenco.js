@@ -122,14 +122,16 @@ var FLAMENCO_LENGTH = 567;
     window.setTimeout(park, 250);
   }
 
-  function sourceNow() {
+  function positionNow() {
     var seconds = Math.floor((Date.now() - state.startedAt) / 1000);
     if (seconds < 0) {
       seconds = 0;
     }
-    if (seconds > FLAMENCO_LENGTH - 1) {
-      seconds = FLAMENCO_LENGTH - 1;
-    }
+    return seconds % FLAMENCO_LENGTH;
+  }
+
+  function sourceNow() {
+    var seconds = positionNow();
     return FLAMENCO_BASE + "&muted=0" + (seconds > 0 ? "&t=" + seconds : "");
   }
 
@@ -145,9 +147,26 @@ var FLAMENCO_LENGTH = 567;
     window.setTimeout(park, 300);
   });
 
+  var loopTimer = 0;
+  // The player starts a moment after the iframe is created, so the restart
+  // waits that long past the clock. Otherwise the last seconds get skipped.
+  var LOOP_GRACE_MS = 2500;
+
+  function scheduleLoop() {
+    window.clearTimeout(loopTimer);
+    var remain = FLAMENCO_LENGTH - positionNow();
+    if (remain < 1) {
+      remain = 1;
+    }
+    loopTimer = window.setTimeout(function () {
+      mount();
+    }, remain * 1000 + LOOP_GRACE_MS);
+  }
+
   function mount() {
     iframe.src = sourceNow();
     host.replaceChildren(iframe);
+    scheduleLoop();
   }
 
   // A silent one-sample wave, not the recording. It only asks whether sound may start.
