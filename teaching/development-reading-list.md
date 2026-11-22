@@ -416,7 +416,7 @@ Michalopoulos, Stelios. 2012. "The Origins of Ethnolinguistic Diversity." *Ameri
 
 Olson, Mancur. 1993. "Dictatorship, Democracy, and Development." *American Political Science Review* 87(3): 567-576. https://doi.org/10.2307/2938736
 
-Ottinger, Sebastian, and Nico Voigtländer. 2025. "History's Masters The Effect of European Monarchs on State Performance." *Econometrica* 93 (1): 95–128. https://doi.org/10.3982/ecta20830
+Ottinger, Sebastian, and Nico Voigtländer. 2025. "History's Masters: The Effect of European Monarchs on State Performance." *Econometrica* 93 (1): 95–128. https://doi.org/10.3982/ecta20830
 
 Padró i Miquel, Gerard. 2007. "The Control of Politicians in Divided Societies: The Politics of Fear." *Review of Economic Studies* 74 (4): 1259–1274. https://doi.org/10.1111/j.1467-937x.2007.00455.x
 
@@ -682,7 +682,7 @@ Mayshar, Joram, Omer Moav, and Luigi Pascali. 2022. "The Origin of the State: La
 
 Muralidharan, Karthik, Paul Niehaus, and Sandip Sukhtankar (2016). Building State Capacity: Evidence from Biometric Smartcards in India. *American Economic Review*, 106(10): 2895-2929 https://doi.org/10.1257/aer.20141346
 
-Ottinger, Sebastian, and Nico Voigtländer. 2025. "History's Masters The Effect of European Monarchs on State Performance." *Econometrica* 93 (1): 95–128. https://doi.org/10.3982/ecta20830
+Ottinger, Sebastian, and Nico Voigtländer. 2025. "History's Masters: The Effect of European Monarchs on State Performance." *Econometrica* 93 (1): 95–128. https://doi.org/10.3982/ecta20830
 
 Paglayan, Agustina S. 2021. "The Non-Democratic Roots of Mass Education: Evidence from 200 Years." *American Political Science Review* 115 (1): 179-198. https://doi.org/10.1017/s0003055420000647
 
@@ -1082,7 +1082,7 @@ Nunn, Nathan, and Nancy Qian. 2011. "The Potato's Contribution to Population and
 
 Olsson, Ola, and Christopher Paik, 2016. Long-Run cultural divergence: Evidence from the Neolithic. *Journal of Development Economics*, 122, 197--213 https://doi.org/10.1016/j.jdeveco.2016.05.003
 
-Ottinger, Sebastian, and Nico Voigtländer. 2025. "History's Masters The Effect of European Monarchs on State Performance." *Econometrica* 93 (1): 95–128. https://doi.org/10.3982/ecta20830
+Ottinger, Sebastian, and Nico Voigtländer. 2025. "History's Masters: The Effect of European Monarchs on State Performance." *Econometrica* 93 (1): 95–128. https://doi.org/10.3982/ecta20830
 
 Paglayan, Agustina S. 2021. "The Non-Democratic Roots of Mass Education: Evidence from 200 Years." *American Political Science Review* 115 (1): 179-198. https://doi.org/10.1017/s0003055420000647
 
